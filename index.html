@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f8f7f4" />
+  <meta name="description" content="Market Brief, your independent daily financial news desk." />
+  <title>Market Brief | Financial news, with context</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script defer src="app.js"></script>
+</head>
+<body>
+ <div class="shell">
+  <aside class="sidebar" id="sidebar">
+   <a class="brand" href="#dashboard" aria-label="Market Brief home"><span class="brand-mark">M<span class="brand-dot">.</span></span><span class="brand-name">market<span>brief</span><small>YOUR FINANCIAL NEWS DESK</small></span></a>
+   <div class="workspace-label">WORKSPACE</div>
+   <nav class="nav" aria-label="Main navigation">
+    <button class="nav-link active" data-view="dashboard"><span class="nav-icon">▦</span> Overview</button>
+    <button class="nav-link" data-view="live"><span class="nav-icon">◉</span> Live news <span class="nav-count" id="live-count"></span></button>
+    <button class="nav-link" data-view="watchlist"><span class="nav-icon">☆</span> My watchlist</button>
+    <button class="nav-link" data-view="archive"><span class="nav-icon">▤</span> Briefing archive</button>
+    <button class="nav-link" data-view="saved"><span class="nav-icon">♧</span> Saved stories <span class="nav-count" id="saved-count"></span></button>
+   </nav>
+   <div class="sidebar-bottom"><div class="data-status"><span class="pulse" id="status-dot"></span><span id="status-text">Awaiting first update</span></div><p>Independent headlines, without the noise.</p><button class="mini-link" id="about-btn">About this desk <span>↗</span></button></div>
+  </aside>
+  <div class="main-area">
+   <header class="topbar"><button class="mobile-menu" id="menu-btn" aria-label="Toggle navigation">☰</button><div class="breadcrumb">THE DAILY EDITION <span>/</span> <span id="breadcrumb-current">Overview</span></div><div class="header-right"><span class="date-label" id="header-date"></span><button class="icon-btn" id="search-toggle" title="Search stories" aria-label="Search stories">⌕</button><span class="avatar">MB</span></div></header>
+   <main class="content" id="content">
+    <div class="page-loading"><div class="spinner"></div><p>Opening your news desk…</p></div>
+   </main>
+   <footer class="footer"><span>MARKET BRIEF © <span id="year"></span></span><span>Source-linked reporting · No financial advice · Times shown in ET</span></footer>
+  </div>
+ </div>
+ <div class="modal-backdrop hidden" id="modal-backdrop"><div class="modal" role="dialog" aria-modal="true" aria-label="Story detail"><button class="modal-close" id="modal-close" aria-label="Close dialog">✕</button><div id="modal-content"></div></div></div>
+ <div class="toast hidden" id="toast" role="status"></div>
+</body>
+</html>
