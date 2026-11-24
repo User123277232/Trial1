@@ -1,6 +1,21 @@
 {
   "briefings": [
     {
+      "date": "2026-11-24",
+      "generatedAt": "2026-11-24T20:51:19.367690Z",
+      "storyIds": [
+        "55261058e13b8a4410",
+        "c987c5d81ba2c9241e",
+        "34a11fc87185547e22",
+        "4177302502003afd5b",
+        "3cc382ea715db7a8c6",
+        "a6f10d07a2112a7574",
+        "b1df1b9433f1c0a078",
+        "838c3e7f4be5ef8e27"
+      ],
+      "editorialNote": "Automatically ranked by recency, topic signals and source coverage. This is not an AI-verified editorial selection."
+    },
+    {
       "date": "2026-11-23",
       "generatedAt": "2026-11-23T12:19:23.789146Z",
       "storyIds": [
