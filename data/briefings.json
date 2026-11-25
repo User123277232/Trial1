@@ -1,6 +1,21 @@
 {
   "briefings": [
     {
+      "date": "2026-11-25",
+      "generatedAt": "2026-11-25T14:14:51.950256Z",
+      "storyIds": [
+        "80c92b1aa72f0e4050",
+        "a4a030850bdac1af32",
+        "f3d854f4920f8c5db3",
+        "1295c3f0a3d4e6a28a",
+        "bd1252d2c453209a21",
+        "d5d1f7ad2b8093fe50",
+        "2cd5dbab424dc481c6",
+        "ae865563700ddb6727"
+      ],
+      "editorialNote": "Automatically ranked by recency, topic signals and source coverage. This is not an AI-verified editorial selection."
+    },
+    {
       "date": "2026-11-24",
       "generatedAt": "2026-11-24T20:51:19.367690Z",
       "storyIds": [
@@ -87,21 +102,6 @@
         "b0763f276d576412ab",
         "175d40bc8021b5efcb",
         "0e47bb226e268183c9"
-      ],
-      "editorialNote": "Automatically ranked by recency, topic signals and source coverage. This is not an AI-verified editorial selection."
-    },
-    {
-      "date": "2026-11-18",
-      "generatedAt": "2026-11-18T19:22:58.732475Z",
-      "storyIds": [
-        "f2035e1ee85f0afe02",
-        "45e5002f2de0d34171",
-        "144c4d6b3f63985d78",
-        "900718706f5815a5dc",
-        "63cc46e26a9507bbd9",
-        "ce1ef0e2bef817df3e",
-        "faaf02f66dff16686f",
-        "c86c9bec814fcaff5e"
       ],
       "editorialNote": "Automatically ranked by recency, topic signals and source coverage. This is not an AI-verified editorial selection."
     }
