@@ -1,7 +1,625 @@
 {
-  "updatedAt": "2026-11-27T09:00:32.416833Z",
-  "attemptedAt": "2026-11-27T09:00:32.416833Z",
+  "updatedAt": "2026-11-27T18:52:09.894803Z",
+  "attemptedAt": "2026-11-27T18:52:09.894803Z",
   "stories": [
+    {
+      "id": "562887182626d51207",
+      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "description": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T18:50:15Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.99
+    },
+    {
+      "id": "c0b237609b05881029",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T18:42:50Z",
+      "related": [],
+      "related_count": 1,
+      "score": 37.95
+    },
+    {
+      "id": "95100b79adbbd0720e",
+      "title": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+      "description": "Police are working with agencies across Europe after similar incidents occurred at two other Don Toliver concerts A group of organised criminals are believed to have carried out robberies during Don Toliver’s Manchester…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+      "category": "World",
+      "published": "2026-11-27T18:35:45Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.91
+    },
+    {
+      "id": "f8f60e3d3dc1bc73fe",
+      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "description": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "category": "Markets",
+      "published": "2026-11-27T18:24:06Z",
+      "related": [],
+      "related_count": 1,
+      "score": 34.84
+    },
+    {
+      "id": "a71c660f53c6180d0b",
+      "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+      "description": "Machines are solving problems that have been beyond the reach of human ingenuity. Their growing power must not become the sole preserve of billionaires For the average person, the news that AI has helped crack a problem…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+      "category": "Technology",
+      "published": "2026-11-27T18:07:43Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.75
+    },
+    {
+      "id": "cb417668e2296ae718",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T18:00:40Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.71
+    },
+    {
+      "id": "6c17c32d90cc7d9df4",
+      "title": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+      "description": "FBI estimates thousands of people identify as members, or recent members, of group linked to indecent images of girls and blackmail It sounds benign: the Com, short for the Community. But crime agencies around the world…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+      "category": "World",
+      "published": "2026-11-27T17:53:30Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.67
+    },
+    {
+      "id": "0af6d0068a0163612c",
+      "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+      "description": "Warning of ‘lights out for Labour in Scotland’ as Burnham faces choice between warring factions over North Sea drilling project Dozens of Labour MPs in favour of Rosebank are putting pressure on the prime minister not to…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+      "category": "World",
+      "published": "2026-11-27T17:39:10Z",
+      "related": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+          "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield"
+        }
+      ],
+      "related_count": 2,
+      "score": 40.59
+    },
+    {
+      "id": "b20369edf3b1bcf6b4",
+      "title": "UK man jailed for online blackmail of vulnerable girls around the world",
+      "description": "Beau-Jack Mensforth, 20, part of a group known as the Com, coerced girls into self-harm, making indecent images of themselves and physically harming pets The Com: the global cybercrime network posing a ‘chilling threat’…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online",
+      "category": "World",
+      "published": "2026-11-27T17:27:03Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.53
+    },
+    {
+      "id": "2e0a591f6c68182fea",
+      "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+      "description": "Greenpeace publishes report showing tech firm is continuing to build despite planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the co…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+      "category": "Technology",
+      "published": "2026-11-27T17:21:18Z",
+      "related": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+          "title": "Google told to halt Belgium datacentre construction over lack of planning permit"
+        }
+      ],
+      "related_count": 2,
+      "score": 36.5
+    },
+    {
+      "id": "1aa82719add7e951b0",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "description": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T17:19:31Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.49
+    },
+    {
+      "id": "6c7c9ffa9ebfadb4d7",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "description": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T16:53:46Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.34
+    },
+    {
+      "id": "f039ae45eebe5b1273",
+      "title": "Jared Kushner’s 70-minute interview reveals perils of treating Putin like a corporate rival",
+      "description": "Trump’s son-in-law and senior negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotia…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
+      "category": "World",
+      "published": "2026-11-27T16:49:59Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.32
+    },
+    {
+      "id": "73bc6195f21a5458fb",
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "description": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "category": "Technology",
+      "published": "2026-11-27T16:43:14Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.28
+    },
+    {
+      "id": "77a22368904acb2f8a",
+      "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+      "description": "This blog is now closed, you can read more on this story here According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at ab…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+      "category": "World",
+      "published": "2026-11-27T16:33:28Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.23
+    },
+    {
+      "id": "0d5131957dfe2637df",
+      "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+      "description": "This blog is now closed Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism a…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "category": "World",
+      "published": "2026-11-27T16:19:50Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.15
+    },
+    {
+      "id": "e92c9f7f64b7c554db",
+      "title": "Eastern US recovers from storms that snarled Thanksgiving travel as flooding continues",
+      "description": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia Skies are clearing along the US eastern seaboard, and power was being restored to hundreds of thousands of custom…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+      "category": "World",
+      "published": "2026-11-27T16:18:56Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.15
+    },
+    {
+      "id": "c3abcdfb8384b4ea29",
+      "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+      "description": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barrin…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+      "category": "World",
+      "published": "2026-11-27T16:13:07Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.12
+    },
+    {
+      "id": "0a59bade8c47b7af25",
+      "title": "Will new energy fixes cost more in January?",
+      "description": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+      "category": "Energy",
+      "published": "2026-11-27T16:05:32Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.07
+    },
+    {
+      "id": "98a0981ae67cbb89bd",
+      "title": "British Gas owner seeks urgent government talks over future of storage facility",
+      "description": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facili…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+      "category": "Markets",
+      "published": "2026-11-27T15:56:31Z",
+      "related": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+          "title": "British Gas owner seeks urgent government talks over future of storage facility"
+        }
+      ],
+      "related_count": 2,
+      "score": 37.02
+    },
+    {
+      "id": "08289d99b38581fb8a",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "description": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T15:54:15Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.01
+    },
+    {
+      "id": "c012f848ad6f3014d2",
+      "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+      "description": "Norwegian airline tells customers not to come to airports after surging fuel costs caused by Iran war ruin finances Norse Atlantic Airways has filed for bankruptcy and cancelled all future flights after surging fuel cost…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+      "category": "Markets",
+      "published": "2026-11-27T15:40:35Z",
+      "related": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+          "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights"
+        }
+      ],
+      "related_count": 2,
+      "score": 36.94
+    },
+    {
+      "id": "90225607764de0bf90",
+      "title": "Newly released documents suggest CIA did more post-9/11 waterboarding than previously acknowledged",
+      "description": "Declassified documents appear to support belief that waterboarding was more common and may have occurred beyond two acknowledged sites Newly released documents suggest that the CIA waterboarded more detainees during the…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/newly-released-documents-cia-waterboarding-9-11",
+      "category": "World",
+      "published": "2026-11-27T15:25:03Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.85
+    },
+    {
+      "id": "592f2aaf2c92796f18",
+      "title": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
+      "description": "Department stores are hosting in-person events for those who find comfort in collecting the British soft toy brand They’re cute, cuddly and taking over the homes of young adults. Jellycat, a British soft toy brand founde…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
+      "category": "Markets",
+      "published": "2026-11-27T15:12:03Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.78
+    },
+    {
+      "id": "d99d14facb55d0360c",
+      "title": "‘Punched in the guts’: Poundland staff left reeling as it goes into administration",
+      "description": "Workers are sad but unsurprised as closures and job losses loom, while 2,000 suppliers will take a big hit Poundland staff fear they’ll be left out in the cold for Christmas. When will workers have a say in their future?…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers",
+      "category": "Markets",
+      "published": "2026-11-27T15:00:13Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.71
+    },
+    {
+      "id": "15b6ed47396de8a1c6",
+      "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+      "description": "Experts say NIH research raises concerns about chemical companies’ influence on US agency’s pesticide division The US government’s top medical research agency has released three new studies linking glyphosate, the world’…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+      "category": "World",
+      "published": "2026-11-27T15:00:13Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.71
+    },
+    {
+      "id": "ac8ff12f300597d74e",
+      "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+      "description": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "category": "Technology",
+      "published": "2026-11-27T14:52:40Z",
+      "related": [],
+      "related_count": 1,
+      "score": 36.67
+    },
+    {
+      "id": "4beaf3f97ae5c55c07",
+      "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+      "description": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US air force’s flagship cloud computing platform, a break-in that…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+      "category": "World",
+      "published": "2026-11-27T14:50:15Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.66
+    },
+    {
+      "id": "400ac677644019a009",
+      "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
+      "description": "Academic says Victorian Liberal proposal to lease treatment plants and generate profit with no compromise of services ‘a total furphy’ Victorian election 2026 guide: what you need to know Confused about who to vote for?…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
+      "category": "World",
+      "published": "2026-11-27T14:00:14Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.38
+    },
+    {
+      "id": "ea8daaf86a7e76c88f",
+      "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+      "description": "Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Victorian election 2026 guide: what you need to know Confused about who…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
+      "category": "World",
+      "published": "2026-11-27T14:00:13Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.38
+    },
+    {
+      "id": "9e7c10a7bb4f0b936d",
+      "title": "NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say",
+      "description": "Exclusive: Ryde councillor Penny Pedersen was asked by Labor head office not to nominate for Lane Cove in March state election Get our breaking news email , free app or daily news podcast Labor’s New South Wales leadersh…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say",
+      "category": "World",
+      "published": "2026-11-27T14:00:12Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.38
+    },
+    {
+      "id": "e88afd45f64d7f5b36",
+      "title": "Thanksgiving meal in Florida leads to mass food poisoning incident",
+      "description": "Local media reported that 18 people fell ill after attending a Thanksgiving lunch at a medical center headquarters A Thanksgiving meal in Florida triggered a bout of food poisoning so bad that local emergency officials s…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
+      "category": "World",
+      "published": "2026-11-27T13:41:23Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.27
+    },
+    {
+      "id": "003f975d240600fee5",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T13:38:07Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.26
+    },
+    {
+      "id": "67b4eb45ecac565b1e",
+      "title": "UK’s taste for cow’s milk sours as sales hit record low",
+      "description": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives Has milk gotta lotta bottle? It may not have as much as it used to, with official data showing Britons…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
+      "category": "Markets",
+      "published": "2026-11-27T13:32:07Z",
+      "related": [],
+      "related_count": 1,
+      "score": 33.22
+    },
+    {
+      "id": "25b1f1f4de54334053",
+      "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
+      "description": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly The government is to back legislation aimed at preventing wealthy and powerful individuals using the courts…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
+      "category": "Markets",
+      "published": "2026-11-27T12:15:44Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.8
+    },
+    {
+      "id": "5cae48e5a43650d2a4",
+      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+      "description": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "category": "Markets",
+      "published": "2026-11-27T12:00:22Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.71
+    },
+    {
+      "id": "eeefaf75ab62d323cd",
+      "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+      "description": "President Trump demands a probe into the GDP revision data.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+      "category": "Markets",
+      "published": "2026-11-27T11:55:41Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.69
+    },
+    {
+      "id": "fd06ce139d260a84f1",
+      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "description": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T11:44:40Z",
+      "related": [],
+      "related_count": 1,
+      "score": 31.63
+    },
+    {
+      "id": "8f3f0b06789c3f78e8",
+      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+      "description": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T11:22:02Z",
+      "related": [],
+      "related_count": 1,
+      "score": 31.5
+    },
+    {
+      "id": "59e11c1625425f6a05",
+      "title": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
+      "description": "Judge says officers should be banned from screens and phones while on shift after the 33-year-old’s death at Silverwater • Warning: This article contains references to Indigenous Australians who have died The NSW coroner…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
+      "category": "World",
+      "published": "2026-11-27T11:18:47Z",
+      "related": [],
+      "related_count": 1,
+      "score": 31.48
+    },
+    {
+      "id": "9688bdaf1f0875e81b",
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "description": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "category": "Economy",
+      "published": "2026-11-27T11:00:01Z",
+      "related": [],
+      "related_count": 1,
+      "score": 37.38
+    },
+    {
+      "id": "c07a5999ea58d7cdc8",
+      "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped",
+      "description": "Dropping of corruption charges against Israeli PM after unusual intervention could set damaging precedent The Israeli judges presiding over Benjamin Netanyahu’s corruption trial have called on prosecutors to end proceedi…",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+      "category": "World",
+      "published": "2026-11-27T10:48:29Z",
+      "related": [],
+      "related_count": 1,
+      "score": 31.31
+    },
+    {
+      "id": "34f4a4c31f13361ec8",
+      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+      "description": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T10:39:31Z",
+      "related": [],
+      "related_count": 1,
+      "score": 31.26
+    },
+    {
+      "id": "dba3dcf6f5748c681a",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "description": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T10:24:24Z",
+      "related": [],
+      "related_count": 1,
+      "score": 31.18
+    },
+    {
+      "id": "ba52a70a4150663feb",
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "description": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+      "source": "CNBC Technology",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+      "category": "Markets",
+      "published": "2026-11-27T10:13:44Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.12
+    },
+    {
+      "id": "a96759526dec80ac79",
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+      "description": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "category": "Markets",
+      "published": "2026-11-27T10:10:36Z",
+      "related": [],
+      "related_count": 1,
+      "score": 32.1
+    },
+    {
+      "id": "fec3a93b36de7d00c4",
+      "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
+      "description": "Big lenders will aim to ‘protect their earnings’ from temporary increase in corporation tax surcharge, says Andrew Bailey Business live – latest updates The governor of the Bank of England has said he fears banks could a…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+      "category": "World",
+      "published": "2026-11-27T10:10:29Z",
+      "related": [
+        {
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+          "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief"
+        }
+      ],
+      "related_count": 2,
+      "score": 38.1
+    },
+    {
+      "id": "005b83e494de708ed9",
+      "title": "Pizza history: AI agent’s cardless purchase is a first for UK",
+      "description": "Papa John’s order was made without sharing bank security details – tech that could revolutionise shopping Retailers enter the unknown with AI shopping assistants on Black Friday An order of Papa John’s margherita pizzas…",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "category": "Technology",
+      "published": "2026-11-27T09:53:11Z",
+      "related": [],
+      "related_count": 1,
+      "score": 31.01
+    },
+    {
+      "id": "217bfbc2838ee28472",
+      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+      "description": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T08:58:08Z",
+      "related": [],
+      "related_count": 1,
+      "score": 30.7
+    },
     {
       "id": "18055961e178a96f75",
       "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
@@ -12,7 +630,7 @@
       "published": "2026-11-27T08:47:36Z",
       "related": [],
       "related_count": 1,
-      "score": 34.93
+      "score": 31.64
     },
     {
       "id": "3783f7cb99ccb7bca9",
@@ -24,7 +642,7 @@
       "published": "2026-11-27T08:47:00Z",
       "related": [],
       "related_count": 1,
-      "score": 34.92
+      "score": 31.64
     },
     {
       "id": "ad8bc2982f8a9ba0c6",
@@ -34,15 +652,9 @@
       "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
       "category": "Energy",
       "published": "2026-11-27T08:39:59Z",
-      "related": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-          "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs"
-        }
-      ],
-      "related_count": 2,
-      "score": 36.89
+      "related": [],
+      "related_count": 1,
+      "score": 30.6
     },
     {
       "id": "3623571085a30a7239",
@@ -54,7 +666,7 @@
       "published": "2026-11-27T08:33:08Z",
       "related": [],
       "related_count": 1,
-      "score": 33.85
+      "score": 30.56
     },
     {
       "id": "cb9048571dccd0eac8",
@@ -66,19 +678,7 @@
       "published": "2026-11-27T08:23:29Z",
       "related": [],
       "related_count": 1,
-      "score": 37.79
-    },
-    {
-      "id": "99bc853edd6a96a542",
-      "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
-      "description": "Big lenders will aim to ‘protect their earnings’ amid temporary increase in corporation tax surcharge, says Andrew Bailey Business live – latest updates The governor of the Bank of England has warned that banks could loo…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
-      "category": "World",
-      "published": "2026-11-27T08:17:13Z",
-      "related": [],
-      "related_count": 1,
-      "score": 37.76
+      "score": 34.51
     },
     {
       "id": "5875d0df716ae63217",
@@ -90,55 +690,19 @@
       "published": "2026-11-27T08:13:43Z",
       "related": [],
       "related_count": 1,
-      "score": 33.74
+      "score": 30.45
     },
     {
-      "id": "e92c9f7f64b7c554db",
-      "title": "Heavy rain, wind and flooding hit much of US on Thanksgiving",
-      "description": "Homes left without power and holiday travel disrupted as storms pound east coast and other parts of the US Storms have flooded communities in the US east coast, knocking out power to nearly a million customers and prompt…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+      "id": "e61246d5a4336f4d31",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "description": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
       "category": "World",
-      "published": "2026-11-27T08:10:27Z",
+      "published": "2026-11-27T07:28:10Z",
       "related": [],
       "related_count": 1,
-      "score": 33.72
-    },
-    {
-      "id": "a96759526dec80ac79",
-      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
-      "description": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-      "category": "Markets",
-      "published": "2026-11-27T07:46:02Z",
-      "related": [],
-      "related_count": 1,
-      "score": 34.59
-    },
-    {
-      "id": "ac8ff12f300597d74e",
-      "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-      "description": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-      "category": "Technology",
-      "published": "2026-11-27T07:15:44Z",
-      "related": [],
-      "related_count": 1,
-      "score": 37.42
-    },
-    {
-      "id": "f8f60e3d3dc1bc73fe",
-      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
-      "description": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "category": "Markets",
-      "published": "2026-11-27T07:15:13Z",
-      "related": [],
-      "related_count": 1,
-      "score": 34.41
+      "score": 30.2
     },
     {
       "id": "e31bb913b3c6beda31",
@@ -150,7 +714,7 @@
       "published": "2026-11-27T07:00:58Z",
       "related": [],
       "related_count": 1,
-      "score": 34.34
+      "score": 31.05
     },
     {
       "id": "296d8db898324ec5c5",
@@ -162,19 +726,19 @@
       "published": "2026-11-27T07:00:57Z",
       "related": [],
       "related_count": 1,
-      "score": 33.34
+      "score": 30.05
     },
     {
       "id": "1d90bd05526dd0f1bd",
       "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
-      "description": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop They promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romant…",
+      "description": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop Have you downloaded Meta’s AI assistant Muse or do you plan to? They promise to find the best Black Friday dea…",
       "source": "The Guardian Business",
       "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
       "category": "Technology",
       "published": "2026-11-27T07:00:56Z",
       "related": [],
       "related_count": 1,
-      "score": 33.34
+      "score": 30.05
     },
     {
       "id": "75909d35e945e0b2d0",
@@ -186,7 +750,7 @@
       "published": "2026-11-27T06:54:59Z",
       "related": [],
       "related_count": 1,
-      "score": 33.3
+      "score": 30.02
     },
     {
       "id": "7bf9a4a011f2349b64",
@@ -198,7 +762,7 @@
       "published": "2026-11-27T06:50:38Z",
       "related": [],
       "related_count": 1,
-      "score": 39.28
+      "score": 35.99
     },
     {
       "id": "49d8c550495898d89b",
@@ -210,7 +774,19 @@
       "published": "2026-11-27T06:36:40Z",
       "related": [],
       "related_count": 1,
-      "score": 33.2
+      "score": 29.91
+    },
+    {
+      "id": "30c51f1184e25238a0",
+      "title": "EU leaders fail to bridge budget splits as talks stall",
+      "description": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T06:11:55Z",
+      "related": [],
+      "related_count": 1,
+      "score": 29.78
     },
     {
       "id": "2e9de479487854c553",
@@ -222,7 +798,7 @@
       "published": "2026-11-27T06:11:32Z",
       "related": [],
       "related_count": 1,
-      "score": 34.06
+      "score": 30.77
     },
     {
       "id": "6acbcbf674184dabd1",
@@ -234,7 +810,7 @@
       "published": "2026-11-27T06:11:13Z",
       "related": [],
       "related_count": 1,
-      "score": 34.06
+      "score": 30.77
     },
     {
       "id": "d2d953d69d6387bec7",
@@ -246,11 +822,11 @@
       "published": "2026-11-27T06:09:51Z",
       "related": [],
       "related_count": 1,
-      "score": 32.05
+      "score": 28.76
     },
     {
       "id": "0a320297267602685f",
-      "title": "Could housing decide Spain's general election?",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
       "description": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
@@ -258,11 +834,11 @@
       "published": "2026-11-27T06:09:31Z",
       "related": [],
       "related_count": 1,
-      "score": 33.05
+      "score": 29.76
     },
     {
       "id": "c25dbcdcb22ad7c823",
-      "title": "Houthi attacks test Saudi Arabia's image of security",
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
       "description": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
@@ -270,7 +846,19 @@
       "published": "2026-11-27T06:04:51Z",
       "related": [],
       "related_count": 1,
-      "score": 33.02
+      "score": 29.74
+    },
+    {
+      "id": "000b151b6031ef1132",
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "description": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T06:03:39Z",
+      "related": [],
+      "related_count": 1,
+      "score": 29.73
     },
     {
       "id": "18d9d6fbf89f1bbd41",
@@ -282,7 +870,7 @@
       "published": "2026-11-27T06:00:56Z",
       "related": [],
       "related_count": 1,
-      "score": 33.0
+      "score": 29.72
     },
     {
       "id": "00bd3b69d9a83e07c5",
@@ -292,15 +880,33 @@
       "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
       "category": "Markets",
       "published": "2026-11-27T06:00:55Z",
-      "related": [
-        {
-          "source": "The Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
-          "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions"
-        }
-      ],
-      "related_count": 2,
-      "score": 37.0
+      "related": [],
+      "related_count": 1,
+      "score": 30.72
+    },
+    {
+      "id": "040f66ee0349793492",
+      "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+      "description": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T05:54:38Z",
+      "related": [],
+      "related_count": 1,
+      "score": 29.68
+    },
+    {
+      "id": "782a667529b5e6ac70",
+      "title": "Venezuela to scrap law that bars opposition from public office",
+      "description": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+      "category": "World",
+      "published": "2026-11-27T05:35:10Z",
+      "related": [],
+      "related_count": 1,
+      "score": 29.57
     },
     {
       "id": "f28f5b7153b7e129c9",
@@ -312,7 +918,7 @@
       "published": "2026-11-27T05:31:38Z",
       "related": [],
       "related_count": 1,
-      "score": 32.84
+      "score": 29.55
     },
     {
       "id": "a30691c3dccc589380",
@@ -324,7 +930,7 @@
       "published": "2026-11-27T05:15:26Z",
       "related": [],
       "related_count": 1,
-      "score": 32.75
+      "score": 29.46
     },
     {
       "id": "2dac6eb892c6da8ff1",
@@ -336,7 +942,7 @@
       "published": "2026-11-27T05:02:40Z",
       "related": [],
       "related_count": 1,
-      "score": 32.68
+      "score": 29.39
     },
     {
       "id": "93c2c5f85503b50203",
@@ -348,7 +954,7 @@
       "published": "2026-11-27T05:00:55Z",
       "related": [],
       "related_count": 1,
-      "score": 32.67
+      "score": 29.38
     },
     {
       "id": "10dca5b586ce7a1d93",
@@ -360,7 +966,7 @@
       "published": "2026-11-27T04:56:32Z",
       "related": [],
       "related_count": 1,
-      "score": 32.64
+      "score": 29.36
     },
     {
       "id": "5009bbc5f730b10649",
@@ -372,7 +978,7 @@
       "published": "2026-11-27T03:28:15Z",
       "related": [],
       "related_count": 1,
-      "score": 32.15
+      "score": 28.87
     },
     {
       "id": "b897bf9574269f535b",
@@ -384,7 +990,7 @@
       "published": "2026-11-27T02:38:15Z",
       "related": [],
       "related_count": 1,
-      "score": 31.88
+      "score": 28.59
     },
     {
       "id": "825a790dc9a4e1e030",
@@ -396,7 +1002,7 @@
       "published": "2026-11-27T01:00:49Z",
       "related": [],
       "related_count": 1,
-      "score": 31.33
+      "score": 28.05
     },
     {
       "id": "0df507b7491b787960",
@@ -408,7 +1014,7 @@
       "published": "2026-11-27T00:58:49Z",
       "related": [],
       "related_count": 1,
-      "score": 32.32
+      "score": 29.04
     },
     {
       "id": "5e3730d8957ce761b6",
@@ -420,7 +1026,7 @@
       "published": "2026-11-27T00:48:11Z",
       "related": [],
       "related_count": 1,
-      "score": 31.26
+      "score": 27.98
     },
     {
       "id": "346f60ac8ad26fb187",
@@ -432,7 +1038,7 @@
       "published": "2026-11-27T00:47:43Z",
       "related": [],
       "related_count": 1,
-      "score": 31.26
+      "score": 27.98
     },
     {
       "id": "9edf7cb5c6b269b778",
@@ -444,7 +1050,7 @@
       "published": "2026-11-27T00:10:55Z",
       "related": [],
       "related_count": 1,
-      "score": 31.06
+      "score": 27.77
     },
     {
       "id": "996d1a4cc4299ee573",
@@ -456,7 +1062,7 @@
       "published": "2026-11-27T00:02:19Z",
       "related": [],
       "related_count": 1,
-      "score": 32.01
+      "score": 28.72
     },
     {
       "id": "6d47b53ef6c72ddfed",
@@ -468,7 +1074,7 @@
       "published": "2026-11-27T00:02:10Z",
       "related": [],
       "related_count": 1,
-      "score": 31.01
+      "score": 27.72
     },
     {
       "id": "8c87a82cbd11961edc",
@@ -486,7 +1092,7 @@
         }
       ],
       "related_count": 2,
-      "score": 34.01
+      "score": 30.72
     },
     {
       "id": "eea635e4ce769ce59d",
@@ -498,7 +1104,7 @@
       "published": "2026-11-27T00:01:47Z",
       "related": [],
       "related_count": 1,
-      "score": 31.01
+      "score": 27.72
     },
     {
       "id": "8931a95861be61ec02",
@@ -510,7 +1116,7 @@
       "published": "2026-11-26T23:17:12Z",
       "related": [],
       "related_count": 1,
-      "score": 31.76
+      "score": 28.47
     },
     {
       "id": "b23550aa74f6e76ccd",
@@ -522,7 +1128,7 @@
       "published": "2026-11-26T23:08:12Z",
       "related": [],
       "related_count": 1,
-      "score": 30.71
+      "score": 27.42
     },
     {
       "id": "7238d9d5db25300bb1",
@@ -534,7 +1140,7 @@
       "published": "2026-11-26T23:03:16Z",
       "related": [],
       "related_count": 1,
-      "score": 30.68
+      "score": 27.4
     },
     {
       "id": "3e32a920f8db9fcdaf",
@@ -546,19 +1152,7 @@
       "published": "2026-11-26T23:01:40Z",
       "related": [],
       "related_count": 1,
-      "score": 30.67
-    },
-    {
-      "id": "cb417668e2296ae718",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-26T22:49:27Z",
-      "related": [],
-      "related_count": 1,
-      "score": 30.61
+      "score": 27.39
     },
     {
       "id": "34b6f8a971520277bf",
@@ -570,7 +1164,7 @@
       "published": "2026-11-26T22:36:55Z",
       "related": [],
       "related_count": 1,
-      "score": 30.54
+      "score": 27.25
     },
     {
       "id": "554da2f1c497014471",
@@ -582,7 +1176,7 @@
       "published": "2026-11-26T22:01:22Z",
       "related": [],
       "related_count": 1,
-      "score": 30.34
+      "score": 27.05
     },
     {
       "id": "8c6350b460e5455401",
@@ -594,7 +1188,7 @@
       "published": "2026-11-26T21:33:36Z",
       "related": [],
       "related_count": 1,
-      "score": 30.18
+      "score": 26.9
     },
     {
       "id": "8ca241f1711a842039",
@@ -606,7 +1200,7 @@
       "published": "2026-11-26T21:17:53Z",
       "related": [],
       "related_count": 1,
-      "score": 30.1
+      "score": 26.81
     },
     {
       "id": "9ff88fe5b16f31f678",
@@ -618,7 +1212,7 @@
       "published": "2026-11-26T20:33:26Z",
       "related": [],
       "related_count": 1,
-      "score": 29.85
+      "score": 26.56
     },
     {
       "id": "d03952d926187f9728",
@@ -630,7 +1224,7 @@
       "published": "2026-11-26T20:33:07Z",
       "related": [],
       "related_count": 1,
-      "score": 29.85
+      "score": 26.56
     },
     {
       "id": "94c0006fb95366da7f",
@@ -642,7 +1236,7 @@
       "published": "2026-11-26T20:01:47Z",
       "related": [],
       "related_count": 1,
-      "score": 29.67
+      "score": 26.39
     },
     {
       "id": "a6240cf56dcbba6711",
@@ -654,7 +1248,7 @@
       "published": "2026-11-26T19:55:58Z",
       "related": [],
       "related_count": 1,
-      "score": 33.64
+      "score": 30.35
     },
     {
       "id": "a2a9e14f4c38298e26",
@@ -666,7 +1260,7 @@
       "published": "2026-11-26T19:54:05Z",
       "related": [],
       "related_count": 1,
-      "score": 29.63
+      "score": 26.34
     },
     {
       "id": "b9ee36a9107fc93b16",
@@ -678,7 +1272,7 @@
       "published": "2026-11-26T19:41:37Z",
       "related": [],
       "related_count": 1,
-      "score": 31.56
+      "score": 28.27
     },
     {
       "id": "767acc1585c012f490",
@@ -690,7 +1284,7 @@
       "published": "2026-11-26T19:38:26Z",
       "related": [],
       "related_count": 1,
-      "score": 29.54
+      "score": 26.26
     },
     {
       "id": "af66dbdc2e5c691317",
@@ -702,7 +1296,7 @@
       "published": "2026-11-26T19:26:16Z",
       "related": [],
       "related_count": 1,
-      "score": 29.48
+      "score": 26.19
     },
     {
       "id": "b18159805dbd2a3428",
@@ -714,7 +1308,7 @@
       "published": "2026-11-26T19:16:35Z",
       "related": [],
       "related_count": 1,
-      "score": 29.42
+      "score": 26.14
     },
     {
       "id": "1021176a4c56c3d45c",
@@ -726,7 +1320,7 @@
       "published": "2026-11-26T19:03:47Z",
       "related": [],
       "related_count": 1,
-      "score": 29.35
+      "score": 26.06
     },
     {
       "id": "e6a05ec5b32891a40d",
@@ -738,7 +1332,7 @@
       "published": "2026-11-26T18:47:24Z",
       "related": [],
       "related_count": 1,
-      "score": 30.26
+      "score": 26.97
     },
     {
       "id": "6b042bacb06319a996",
@@ -750,7 +1344,7 @@
       "published": "2026-11-26T18:45:44Z",
       "related": [],
       "related_count": 1,
-      "score": 29.25
+      "score": 25.96
     },
     {
       "id": "3cac5a4470f97ff5a8",
@@ -762,7 +1356,7 @@
       "published": "2026-11-26T18:43:13Z",
       "related": [],
       "related_count": 1,
-      "score": 30.24
+      "score": 26.95
     },
     {
       "id": "f29b8fdb47d9025eda",
@@ -774,7 +1368,7 @@
       "published": "2026-11-26T18:34:17Z",
       "related": [],
       "related_count": 1,
-      "score": 29.19
+      "score": 25.9
     },
     {
       "id": "17e062f9529d9a8424",
@@ -786,7 +1380,7 @@
       "published": "2026-11-26T18:27:43Z",
       "related": [],
       "related_count": 1,
-      "score": 28.15
+      "score": 24.86
     },
     {
       "id": "f4be653cf4bd59c0bf",
@@ -798,7 +1392,7 @@
       "published": "2026-11-26T18:19:14Z",
       "related": [],
       "related_count": 1,
-      "score": 30.1
+      "score": 26.82
     },
     {
       "id": "7ca727ea83633c6658",
@@ -810,7 +1404,7 @@
       "published": "2026-11-26T18:13:33Z",
       "related": [],
       "related_count": 1,
-      "score": 29.07
+      "score": 25.79
     },
     {
       "id": "7ac35e4fd89659cdee",
@@ -822,7 +1416,7 @@
       "published": "2026-11-26T17:51:17Z",
       "related": [],
       "related_count": 1,
-      "score": 28.95
+      "score": 25.66
     },
     {
       "id": "b2717fd68f76a76618",
@@ -834,7 +1428,7 @@
       "published": "2026-11-26T17:50:54Z",
       "related": [],
       "related_count": 1,
-      "score": 29.95
+      "score": 26.66
     },
     {
       "id": "620a4c21d7ed5ae5bf",
@@ -846,7 +1440,7 @@
       "published": "2026-11-26T17:48:25Z",
       "related": [],
       "related_count": 1,
-      "score": 29.93
+      "score": 26.65
     },
     {
       "id": "4c09fb38b56f71c14d",
@@ -858,7 +1452,7 @@
       "published": "2026-11-26T17:44:56Z",
       "related": [],
       "related_count": 1,
-      "score": 29.91
+      "score": 26.63
     },
     {
       "id": "dae68076a7ce563b3b",
@@ -870,7 +1464,7 @@
       "published": "2026-11-26T17:21:21Z",
       "related": [],
       "related_count": 1,
-      "score": 29.78
+      "score": 26.5
     },
     {
       "id": "e6d85b8ded4fb8e2bb",
@@ -882,7 +1476,7 @@
       "published": "2026-11-26T17:09:14Z",
       "related": [],
       "related_count": 1,
-      "score": 29.71
+      "score": 26.43
     },
     {
       "id": "a7da48f677d3dcf64a",
@@ -894,7 +1488,7 @@
       "published": "2026-11-26T17:05:02Z",
       "related": [],
       "related_count": 1,
-      "score": 28.69
+      "score": 25.4
     },
     {
       "id": "e8024ffbc9e258084f",
@@ -906,7 +1500,7 @@
       "published": "2026-11-26T17:04:54Z",
       "related": [],
       "related_count": 1,
-      "score": 28.69
+      "score": 25.4
     },
     {
       "id": "1f95aeb609f7f1bc53",
@@ -918,7 +1512,7 @@
       "published": "2026-11-26T17:00:52Z",
       "related": [],
       "related_count": 1,
-      "score": 28.67
+      "score": 25.38
     },
     {
       "id": "f237b8afba2149fdbe",
@@ -930,7 +1524,7 @@
       "published": "2026-11-26T16:21:19Z",
       "related": [],
       "related_count": 1,
-      "score": 28.45
+      "score": 25.16
     },
     {
       "id": "3e1c4598973c7ae907",
@@ -942,19 +1536,19 @@
       "published": "2026-11-26T16:07:41Z",
       "related": [],
       "related_count": 1,
-      "score": 29.37
+      "score": 26.09
     },
     {
       "id": "5cc6bb2e651f1bab39",
       "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
-      "description": "Six helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, an MP charged with murder It takes a brave soul to try to match the mythic opulence of the wedding arranged by the Indian billionaire…",
+      "description": "Six helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, a politician charged with murder It takes a brave soul to try to match the mythic opulence of the wedding arranged by the Indian billi…",
       "source": "The Guardian World",
       "url": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
       "category": "World",
       "published": "2026-11-26T15:41:42Z",
       "related": [],
       "related_count": 1,
-      "score": 28.23
+      "score": 24.94
     },
     {
       "id": "786c53fcb03eec31f1",
@@ -966,7 +1560,7 @@
       "published": "2026-11-26T15:33:21Z",
       "related": [],
       "related_count": 1,
-      "score": 28.18
+      "score": 24.9
     },
     {
       "id": "425c1324f8a110b27b",
@@ -976,15 +1570,9 @@
       "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "category": "Markets",
       "published": "2026-11-26T15:23:17Z",
-      "related": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-          "title": "New UK-EU treaty has 10-year termination clause"
-        }
-      ],
-      "related_count": 2,
-      "score": 32.13
+      "related": [],
+      "related_count": 1,
+      "score": 25.84
     },
     {
       "id": "bf19a7ccf7bf168c02",
@@ -996,7 +1584,7 @@
       "published": "2026-11-26T15:22:23Z",
       "related": [],
       "related_count": 1,
-      "score": 28.12
+      "score": 24.83
     },
     {
       "id": "b451293f25b921ee9b",
@@ -1008,7 +1596,7 @@
       "published": "2026-11-26T15:22:11Z",
       "related": [],
       "related_count": 1,
-      "score": 27.12
+      "score": 23.83
     },
     {
       "id": "0a091f9d74a0890630",
@@ -1020,7 +1608,7 @@
       "published": "2026-11-26T15:14:17Z",
       "related": [],
       "related_count": 1,
-      "score": 28.08
+      "score": 24.79
     },
     {
       "id": "402fa515652641aaf8",
@@ -1032,7 +1620,7 @@
       "published": "2026-11-26T15:12:36Z",
       "related": [],
       "related_count": 1,
-      "score": 27.07
+      "score": 23.78
     },
     {
       "id": "4799be00b70ea004db",
@@ -1044,7 +1632,7 @@
       "published": "2026-11-26T15:12:19Z",
       "related": [],
       "related_count": 1,
-      "score": 28.07
+      "score": 24.78
     },
     {
       "id": "835b339383d4016a56",
@@ -1056,7 +1644,7 @@
       "published": "2026-11-26T15:00:37Z",
       "related": [],
       "related_count": 1,
-      "score": 29.0
+      "score": 25.71
     },
     {
       "id": "b7c0a46efb3a143554",
@@ -1068,7 +1656,7 @@
       "published": "2026-11-26T15:00:37Z",
       "related": [],
       "related_count": 1,
-      "score": 28.0
+      "score": 24.71
     },
     {
       "id": "985c4352e19d5c68fe",
@@ -1080,7 +1668,7 @@
       "published": "2026-11-26T14:52:40Z",
       "related": [],
       "related_count": 1,
-      "score": 27.96
+      "score": 24.67
     },
     {
       "id": "1bef8cd0c640bf271e",
@@ -1092,7 +1680,7 @@
       "published": "2026-11-26T14:44:26Z",
       "related": [],
       "related_count": 1,
-      "score": 27.91
+      "score": 24.62
     },
     {
       "id": "9983e7f18b836eb091",
@@ -1104,7 +1692,7 @@
       "published": "2026-11-26T14:35:22Z",
       "related": [],
       "related_count": 1,
-      "score": 27.86
+      "score": 24.57
     },
     {
       "id": "4d112b033cf85a1f33",
@@ -1116,7 +1704,7 @@
       "published": "2026-11-26T14:33:00Z",
       "related": [],
       "related_count": 1,
-      "score": 27.85
+      "score": 24.56
     },
     {
       "id": "04bbab001daa881ce8",
@@ -1128,7 +1716,7 @@
       "published": "2026-11-26T14:28:22Z",
       "related": [],
       "related_count": 1,
-      "score": 28.82
+      "score": 25.53
     },
     {
       "id": "b26663c4417dda63e2",
@@ -1140,7 +1728,7 @@
       "published": "2026-11-26T14:26:00Z",
       "related": [],
       "related_count": 1,
-      "score": 27.81
+      "score": 24.52
     },
     {
       "id": "fcce7d05f3b06de017",
@@ -1152,7 +1740,7 @@
       "published": "2026-11-26T14:06:10Z",
       "related": [],
       "related_count": 1,
-      "score": 27.7
+      "score": 24.41
     },
     {
       "id": "4ee1b9e1a57fb28959",
@@ -1164,7 +1752,7 @@
       "published": "2026-11-26T14:00:40Z",
       "related": [],
       "related_count": 1,
-      "score": 27.67
+      "score": 24.38
     },
     {
       "id": "2aa8a9afec5ba25e75",
@@ -1176,7 +1764,7 @@
       "published": "2026-11-26T14:00:35Z",
       "related": [],
       "related_count": 1,
-      "score": 27.67
+      "score": 24.38
     },
     {
       "id": "ec56521a9fe66f0a12",
@@ -1188,7 +1776,7 @@
       "published": "2026-11-26T14:00:20Z",
       "related": [],
       "related_count": 1,
-      "score": 28.67
+      "score": 25.38
     },
     {
       "id": "16d4cf8d8706be0b94",
@@ -1200,7 +1788,7 @@
       "published": "2026-11-26T13:43:36Z",
       "related": [],
       "related_count": 1,
-      "score": 28.57
+      "score": 25.29
     },
     {
       "id": "a68b7ab1b90f889099",
@@ -1212,7 +1800,7 @@
       "published": "2026-11-26T13:40:46Z",
       "related": [],
       "related_count": 1,
-      "score": 28.56
+      "score": 25.27
     },
     {
       "id": "657a0ada9eec25258c",
@@ -1224,7 +1812,7 @@
       "published": "2026-11-26T13:00:35Z",
       "related": [],
       "related_count": 1,
-      "score": 27.33
+      "score": 24.05
     },
     {
       "id": "bdb4680c4487bf737d",
@@ -1236,7 +1824,7 @@
       "published": "2026-11-26T12:49:07Z",
       "related": [],
       "related_count": 1,
-      "score": 28.27
+      "score": 24.98
     },
     {
       "id": "b93966ceeef444baf3",
@@ -1248,7 +1836,7 @@
       "published": "2026-11-26T12:46:55Z",
       "related": [],
       "related_count": 1,
-      "score": 27.26
+      "score": 23.97
     },
     {
       "id": "a0a18c0a750facd48b",
@@ -1260,7 +1848,7 @@
       "published": "2026-11-26T12:46:49Z",
       "related": [],
       "related_count": 1,
-      "score": 27.26
+      "score": 23.97
     },
     {
       "id": "083009807a8d9c8513",
@@ -1272,7 +1860,7 @@
       "published": "2026-11-26T12:44:46Z",
       "related": [],
       "related_count": 1,
-      "score": 28.25
+      "score": 24.96
     },
     {
       "id": "e0c6eff3487da862b6",
@@ -1284,7 +1872,7 @@
       "published": "2026-11-26T12:37:42Z",
       "related": [],
       "related_count": 1,
-      "score": 27.21
+      "score": 23.92
     },
     {
       "id": "468013bc81c186105c",
@@ -1296,7 +1884,7 @@
       "published": "2026-11-26T12:33:23Z",
       "related": [],
       "related_count": 1,
-      "score": 27.18
+      "score": 23.9
     },
     {
       "id": "033bfd653e52d97f25",
@@ -1308,7 +1896,7 @@
       "published": "2026-11-26T12:22:25Z",
       "related": [],
       "related_count": 1,
-      "score": 32.12
+      "score": 28.83
     },
     {
       "id": "ea858e7940f1d45a8b",
@@ -1320,7 +1908,7 @@
       "published": "2026-11-26T12:16:06Z",
       "related": [],
       "related_count": 1,
-      "score": 27.09
+      "score": 23.8
     },
     {
       "id": "011a3d65ef97fdfcc1",
@@ -1332,7 +1920,7 @@
       "published": "2026-11-26T12:07:29Z",
       "related": [],
       "related_count": 1,
-      "score": 28.04
+      "score": 24.75
     },
     {
       "id": "d7c70d5508b5301cad",
@@ -1344,7 +1932,7 @@
       "published": "2026-11-26T12:03:49Z",
       "related": [],
       "related_count": 1,
-      "score": 28.02
+      "score": 24.73
     },
     {
       "id": "7368b21ed59287e5a2",
@@ -1356,7 +1944,7 @@
       "published": "2026-11-26T12:00:34Z",
       "related": [],
       "related_count": 1,
-      "score": 28.0
+      "score": 24.71
     },
     {
       "id": "2686498ff6f791a6d6",
@@ -1368,7 +1956,7 @@
       "published": "2026-11-26T12:00:34Z",
       "related": [],
       "related_count": 1,
-      "score": 28.0
+      "score": 24.71
     },
     {
       "id": "b1f53ff57c99775eda",
@@ -1380,7 +1968,7 @@
       "published": "2026-11-26T12:00:33Z",
       "related": [],
       "related_count": 1,
-      "score": 27.0
+      "score": 23.71
     },
     {
       "id": "b4dc8eb38d1ba5b0d5",
@@ -1392,7 +1980,7 @@
       "published": "2026-11-26T12:00:22Z",
       "related": [],
       "related_count": 1,
-      "score": 27.0
+      "score": 23.71
     },
     {
       "id": "18ccf4cfa09e715d2a",
@@ -1404,7 +1992,7 @@
       "published": "2026-11-26T11:23:41Z",
       "related": [],
       "related_count": 1,
-      "score": 26.8
+      "score": 23.51
     },
     {
       "id": "a03756f7a0e7f845f1",
@@ -1416,7 +2004,7 @@
       "published": "2026-11-26T11:21:45Z",
       "related": [],
       "related_count": 1,
-      "score": 27.78
+      "score": 24.5
     },
     {
       "id": "de2272297e5d395932",
@@ -1428,7 +2016,7 @@
       "published": "2026-11-26T11:00:39Z",
       "related": [],
       "related_count": 1,
-      "score": 26.67
+      "score": 23.38
     },
     {
       "id": "43ad4bacc720c0b972",
@@ -1440,7 +2028,7 @@
       "published": "2026-11-26T10:38:35Z",
       "related": [],
       "related_count": 1,
-      "score": 26.54
+      "score": 23.26
     },
     {
       "id": "61ca32d95b0c0847b1",
@@ -1452,7 +2040,7 @@
       "published": "2026-11-26T10:25:51Z",
       "related": [],
       "related_count": 1,
-      "score": 26.47
+      "score": 23.19
     },
     {
       "id": "4daf24552f6b7bb4ad",
@@ -1464,7 +2052,7 @@
       "published": "2026-11-26T10:15:47Z",
       "related": [],
       "related_count": 1,
-      "score": 27.42
+      "score": 24.13
     },
     {
       "id": "89f92355cc69591803",
@@ -1476,7 +2064,7 @@
       "published": "2026-11-26T10:15:18Z",
       "related": [],
       "related_count": 1,
-      "score": 26.42
+      "score": 23.13
     },
     {
       "id": "b34e71a8b2e6181736",
@@ -1488,7 +2076,7 @@
       "published": "2026-11-26T10:14:08Z",
       "related": [],
       "related_count": 1,
-      "score": 26.41
+      "score": 23.12
     },
     {
       "id": "822182257a0d5bf510",
@@ -1500,7 +2088,7 @@
       "published": "2026-11-26T10:00:52Z",
       "related": [],
       "related_count": 1,
-      "score": 26.34
+      "score": 23.05
     },
     {
       "id": "6e19b70a42c70ab82b",
@@ -1512,7 +2100,7 @@
       "published": "2026-11-26T10:00:52Z",
       "related": [],
       "related_count": 1,
-      "score": 27.34
+      "score": 24.05
     },
     {
       "id": "1009d4f83798dc570e",
@@ -1524,7 +2112,7 @@
       "published": "2026-11-26T10:00:52Z",
       "related": [],
       "related_count": 1,
-      "score": 30.34
+      "score": 27.05
     },
     {
       "id": "59d36fc5f2a8c90b21",
@@ -1536,7 +2124,7 @@
       "published": "2026-11-26T09:49:42Z",
       "related": [],
       "related_count": 1,
-      "score": 26.27
+      "score": 22.99
     },
     {
       "id": "d50ccd436e3c3dfb47",
@@ -1548,7 +2136,7 @@
       "published": "2026-11-26T09:39:50Z",
       "related": [],
       "related_count": 1,
-      "score": 27.22
+      "score": 23.93
     },
     {
       "id": "b90b27f36fe1fbced2",
@@ -1560,7 +2148,7 @@
       "published": "2026-11-26T09:37:47Z",
       "related": [],
       "related_count": 1,
-      "score": 26.21
+      "score": 22.92
     },
     {
       "id": "8942f94906119c2f33",
@@ -1570,15 +2158,9 @@
       "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
       "category": "Markets",
       "published": "2026-11-26T09:27:44Z",
-      "related": [
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-          "title": "Musk's plan to send a million SpaceX data satellites into space approved"
-        }
-      ],
-      "related_count": 2,
-      "score": 30.15
+      "related": [],
+      "related_count": 1,
+      "score": 23.86
     },
     {
       "id": "d4fcfd36350a0ca562",
@@ -1590,7 +2172,7 @@
       "published": "2026-11-26T09:22:34Z",
       "related": [],
       "related_count": 1,
-      "score": 26.12
+      "score": 22.84
     },
     {
       "id": "dec455e0dd386e6ca2",
@@ -1602,7 +2184,7 @@
       "published": "2026-11-26T09:18:11Z",
       "related": [],
       "related_count": 1,
-      "score": 27.1
+      "score": 23.81
     },
     {
       "id": "31c1b326ab322bcff2",
@@ -1614,7 +2196,7 @@
       "published": "2026-11-26T09:09:49Z",
       "related": [],
       "related_count": 1,
-      "score": 26.05
+      "score": 22.76
     },
     {
       "id": "7b0e058a8b9b32a22e",
@@ -1626,7 +2208,7 @@
       "published": "2026-11-26T08:59:11Z",
       "related": [],
       "related_count": 1,
-      "score": 25.99
+      "score": 22.71
     },
     {
       "id": "6a70cf9f4e75e9a005",
@@ -1638,7 +2220,7 @@
       "published": "2026-11-26T08:30:12Z",
       "related": [],
       "related_count": 1,
-      "score": 25.83
+      "score": 22.54
     },
     {
       "id": "fec8263791aafadedb",
@@ -1650,7 +2232,7 @@
       "published": "2026-11-26T08:24:29Z",
       "related": [],
       "related_count": 1,
-      "score": 26.8
+      "score": 23.51
     },
     {
       "id": "c39efa6beff9d27c38",
@@ -1662,7 +2244,7 @@
       "published": "2026-11-26T08:13:01Z",
       "related": [],
       "related_count": 1,
-      "score": 26.74
+      "score": 23.45
     },
     {
       "id": "945db6dbf851f5bc85",
@@ -1674,7 +2256,7 @@
       "published": "2026-11-26T08:00:50Z",
       "related": [],
       "related_count": 1,
-      "score": 26.67
+      "score": 23.38
     },
     {
       "id": "d1c4b3b6dd4cb44249",
@@ -1686,7 +2268,7 @@
       "published": "2026-11-26T07:45:05Z",
       "related": [],
       "related_count": 1,
-      "score": 25.58
+      "score": 22.29
     },
     {
       "id": "b3330bec54a5417caa",
@@ -1698,7 +2280,7 @@
       "published": "2026-11-26T07:43:48Z",
       "related": [],
       "related_count": 1,
-      "score": 25.57
+      "score": 22.29
     },
     {
       "id": "8e52aa463d9bfdaef7",
@@ -1710,7 +2292,7 @@
       "published": "2026-11-26T07:31:24Z",
       "related": [],
       "related_count": 1,
-      "score": 25.5
+      "score": 22.22
     },
     {
       "id": "09bf10b2f2f5d8a781",
@@ -1722,7 +2304,7 @@
       "published": "2026-11-26T07:30:11Z",
       "related": [],
       "related_count": 1,
-      "score": 25.5
+      "score": 22.21
     },
     {
       "id": "8743e8d7b5944afa85",
@@ -1734,7 +2316,7 @@
       "published": "2026-11-26T07:24:39Z",
       "related": [],
       "related_count": 1,
-      "score": 25.47
+      "score": 22.18
     },
     {
       "id": "f3ae84e089eaf8ffde",
@@ -1746,7 +2328,7 @@
       "published": "2026-11-26T07:02:37Z",
       "related": [],
       "related_count": 1,
-      "score": 24.34
+      "score": 21.06
     },
     {
       "id": "7c9b6a446e2ac9ec20",
@@ -1758,7 +2340,7 @@
       "published": "2026-11-26T07:00:48Z",
       "related": [],
       "related_count": 1,
-      "score": 26.33
+      "score": 23.05
     },
     {
       "id": "831ca49a0f5ba4c8af",
@@ -1770,7 +2352,7 @@
       "published": "2026-11-26T06:56:24Z",
       "related": [],
       "related_count": 1,
-      "score": 26.31
+      "score": 23.02
     },
     {
       "id": "ccb4364ae13f35c12f",
@@ -1782,7 +2364,7 @@
       "published": "2026-11-26T06:39:34Z",
       "related": [],
       "related_count": 1,
-      "score": 25.22
+      "score": 21.93
     },
     {
       "id": "62b91950a67bc450fa",
@@ -1794,7 +2376,7 @@
       "published": "2026-11-26T06:13:47Z",
       "related": [],
       "related_count": 1,
-      "score": 29.07
+      "score": 25.79
     },
     {
       "id": "1fa111f4f8fdfd443c",
@@ -1806,7 +2388,7 @@
       "published": "2026-11-26T06:01:58Z",
       "related": [],
       "related_count": 1,
-      "score": 25.01
+      "score": 21.72
     },
     {
       "id": "37edaf80215c4dea5d",
@@ -1818,7 +2400,7 @@
       "published": "2026-11-26T05:36:01Z",
       "related": [],
       "related_count": 1,
-      "score": 28.86
+      "score": 25.58
     },
     {
       "id": "6a97ea80799ea8f2b3",
@@ -1830,7 +2412,7 @@
       "published": "2026-11-26T05:18:33Z",
       "related": [],
       "related_count": 1,
-      "score": 24.77
+      "score": 21.48
     },
     {
       "id": "c02d927e66f4612560",
@@ -1842,7 +2424,7 @@
       "published": "2026-11-26T05:16:17Z",
       "related": [],
       "related_count": 1,
-      "score": 24.75
+      "score": 21.47
     },
     {
       "id": "72f063d740563131c0",
@@ -1854,7 +2436,7 @@
       "published": "2026-11-26T05:00:46Z",
       "related": [],
       "related_count": 1,
-      "score": 28.67
+      "score": 25.38
     },
     {
       "id": "fe3227adbb94773499",
@@ -1866,7 +2448,7 @@
       "published": "2026-11-26T05:00:27Z",
       "related": [],
       "related_count": 1,
-      "score": 24.67
+      "score": 21.38
     },
     {
       "id": "cb0381c8534ac3b7af",
@@ -1878,7 +2460,7 @@
       "published": "2026-11-26T05:00:24Z",
       "related": [],
       "related_count": 1,
-      "score": 24.67
+      "score": 21.38
     },
     {
       "id": "ef9712d3c75b02f3da",
@@ -1890,7 +2472,7 @@
       "published": "2026-11-26T04:47:36Z",
       "related": [],
       "related_count": 1,
-      "score": 24.59
+      "score": 21.31
     },
     {
       "id": "409a7ec03063e0e57b",
@@ -1902,7 +2484,7 @@
       "published": "2026-11-26T04:34:12Z",
       "related": [],
       "related_count": 1,
-      "score": 24.52
+      "score": 21.23
     },
     {
       "id": "368378ba66ddff6746",
@@ -1914,7 +2496,7 @@
       "published": "2026-11-26T04:11:34Z",
       "related": [],
       "related_count": 1,
-      "score": 24.39
+      "score": 21.11
     },
     {
       "id": "1295c3f0a3d4e6a28a",
@@ -1926,7 +2508,7 @@
       "published": "2026-11-26T04:10:58Z",
       "related": [],
       "related_count": 1,
-      "score": 28.39
+      "score": 25.1
     },
     {
       "id": "f89ab3a5c2545b3069",
@@ -1944,7 +2526,7 @@
         }
       ],
       "related_count": 2,
-      "score": 27.35
+      "score": 24.07
     },
     {
       "id": "8c01f2cabd0220266e",
@@ -1956,7 +2538,7 @@
       "published": "2026-11-26T03:19:44Z",
       "related": [],
       "related_count": 1,
-      "score": 28.11
+      "score": 24.82
     },
     {
       "id": "e0b23461ee6daf8411",
@@ -1968,7 +2550,7 @@
       "published": "2026-11-26T03:13:43Z",
       "related": [],
       "related_count": 1,
-      "score": 23.07
+      "score": 19.79
     },
     {
       "id": "2560474d9cda5ed45a",
@@ -1980,7 +2562,7 @@
       "published": "2026-11-26T03:00:43Z",
       "related": [],
       "related_count": 1,
-      "score": 24.0
+      "score": 20.71
     },
     {
       "id": "ce8a8443dab4aa927d",
@@ -1992,7 +2574,7 @@
       "published": "2026-11-26T02:35:39Z",
       "related": [],
       "related_count": 1,
-      "score": 23.86
+      "score": 20.57
     },
     {
       "id": "d4aad38d94f8cbe996",
@@ -2004,7 +2586,7 @@
       "published": "2026-11-26T02:26:10Z",
       "related": [],
       "related_count": 1,
-      "score": 23.81
+      "score": 20.52
     },
     {
       "id": "f3d854f4920f8c5db3",
@@ -2016,7 +2598,7 @@
       "published": "2026-11-26T02:20:52Z",
       "related": [],
       "related_count": 1,
-      "score": 23.78
+      "score": 20.49
     },
     {
       "id": "a7200e80e6a990210e",
@@ -2028,7 +2610,7 @@
       "published": "2026-11-26T02:06:10Z",
       "related": [],
       "related_count": 1,
-      "score": 23.7
+      "score": 20.41
     },
     {
       "id": "516e5f6e078b2f96fb",
@@ -2040,7 +2622,7 @@
       "published": "2026-11-26T01:22:55Z",
       "related": [],
       "related_count": 1,
-      "score": 27.46
+      "score": 24.17
     },
     {
       "id": "ff74f213407f630008",
@@ -2052,7 +2634,7 @@
       "published": "2026-11-26T00:39:10Z",
       "related": [],
       "related_count": 1,
-      "score": 23.21
+      "score": 19.93
     },
     {
       "id": "f68fb01776871da6c6",
@@ -2064,7 +2646,7 @@
       "published": "2026-11-26T00:24:25Z",
       "related": [],
       "related_count": 1,
-      "score": 23.13
+      "score": 19.85
     },
     {
       "id": "54b02487750c26b1f9",
@@ -2076,7 +2658,7 @@
       "published": "2026-11-26T00:23:49Z",
       "related": [],
       "related_count": 1,
-      "score": 23.13
+      "score": 19.84
     },
     {
       "id": "605a86c07b82c0623d",
@@ -2088,7 +2670,7 @@
       "published": "2026-11-26T00:23:27Z",
       "related": [],
       "related_count": 1,
-      "score": 23.13
+      "score": 19.84
     },
     {
       "id": "64ebff7c7a8b0d3321",
@@ -2100,7 +2682,7 @@
       "published": "2026-11-26T00:22:18Z",
       "related": [],
       "related_count": 1,
-      "score": 23.12
+      "score": 19.83
     },
     {
       "id": "b9332cd7d3f27e5292",
@@ -2112,7 +2694,7 @@
       "published": "2026-11-26T00:05:50Z",
       "related": [],
       "related_count": 1,
-      "score": 23.03
+      "score": 19.74
     },
     {
       "id": "fd66cd156a807758b1",
@@ -2124,7 +2706,7 @@
       "published": "2026-11-26T00:01:40Z",
       "related": [],
       "related_count": 1,
-      "score": 23.01
+      "score": 19.72
     },
     {
       "id": "730e27464889ff8fb5",
@@ -2136,7 +2718,7 @@
       "published": "2026-11-26T00:01:40Z",
       "related": [],
       "related_count": 1,
-      "score": 23.01
+      "score": 19.72
     },
     {
       "id": "ee1a7ca2fc5f47fb89",
@@ -2148,7 +2730,7 @@
       "published": "2026-11-26T00:01:39Z",
       "related": [],
       "related_count": 1,
-      "score": 23.01
+      "score": 19.72
     },
     {
       "id": "16f6d15bd1cab81923",
@@ -2160,7 +2742,7 @@
       "published": "2026-11-26T00:01:39Z",
       "related": [],
       "related_count": 1,
-      "score": 23.01
+      "score": 19.72
     },
     {
       "id": "b6abe30a6607e00afd",
@@ -2172,7 +2754,7 @@
       "published": "2026-11-26T00:01:37Z",
       "related": [],
       "related_count": 1,
-      "score": 27.01
+      "score": 23.72
     },
     {
       "id": "873afbf76724887a4d",
@@ -2184,7 +2766,7 @@
       "published": "2026-11-25T23:26:50Z",
       "related": [],
       "related_count": 1,
-      "score": 22.81
+      "score": 19.53
     },
     {
       "id": "d715849d0721cb214e",
@@ -2196,7 +2778,7 @@
       "published": "2026-11-25T23:18:27Z",
       "related": [],
       "related_count": 1,
-      "score": 22.77
+      "score": 19.48
     },
     {
       "id": "eb2b3371a1473f3511",
@@ -2208,7 +2790,7 @@
       "published": "2026-11-25T23:06:06Z",
       "related": [],
       "related_count": 1,
-      "score": 22.7
+      "score": 19.41
     },
     {
       "id": "2f45407eb4d2168d9f",
@@ -2220,7 +2802,7 @@
       "published": "2026-11-25T22:56:36Z",
       "related": [],
       "related_count": 1,
-      "score": 26.64
+      "score": 23.36
     },
     {
       "id": "90aae21f53fa014451",
@@ -2232,7 +2814,7 @@
       "published": "2026-11-25T22:18:06Z",
       "related": [],
       "related_count": 1,
-      "score": 22.43
+      "score": 19.14
     },
     {
       "id": "094436819f55da6319",
@@ -2244,7 +2826,7 @@
       "published": "2026-11-25T21:56:43Z",
       "related": [],
       "related_count": 1,
-      "score": 26.31
+      "score": 23.03
     },
     {
       "id": "2ace335796a081c455",
@@ -2256,7 +2838,7 @@
       "published": "2026-11-25T21:51:17Z",
       "related": [],
       "related_count": 1,
-      "score": 26.28
+      "score": 23.0
     },
     {
       "id": "5c2915f0afb3212b9e",
@@ -2268,7 +2850,7 @@
       "published": "2026-11-25T21:43:18Z",
       "related": [],
       "related_count": 1,
-      "score": 23.24
+      "score": 19.95
     },
     {
       "id": "ee19e01290dca82f04",
@@ -2280,7 +2862,7 @@
       "published": "2026-11-25T21:08:45Z",
       "related": [],
       "related_count": 1,
-      "score": 22.05
+      "score": 18.76
     },
     {
       "id": "b572be81b89fcca70d",
@@ -2292,7 +2874,7 @@
       "published": "2026-11-25T21:04:57Z",
       "related": [],
       "related_count": 1,
-      "score": 21.02
+      "score": 17.74
     },
     {
       "id": "46cb52c0e91d9ee90a",
@@ -2304,7 +2886,7 @@
       "published": "2026-11-25T21:00:08Z",
       "related": [],
       "related_count": 1,
-      "score": 22.0
+      "score": 18.71
     },
     {
       "id": "70063d14e28d882f73",
@@ -2316,7 +2898,7 @@
       "published": "2026-11-25T20:50:15Z",
       "related": [],
       "related_count": 1,
-      "score": 21.94
+      "score": 18.66
     },
     {
       "id": "eefc80763353058a90",
@@ -2328,7 +2910,7 @@
       "published": "2026-11-25T20:20:23Z",
       "related": [],
       "related_count": 1,
-      "score": 22.78
+      "score": 19.49
     },
     {
       "id": "f3bca7a79af7219cc3",
@@ -2340,7 +2922,7 @@
       "published": "2026-11-25T20:11:46Z",
       "related": [],
       "related_count": 1,
-      "score": 21.73
+      "score": 18.44
     },
     {
       "id": "03ec00c194d3073739",
@@ -2352,7 +2934,7 @@
       "published": "2026-11-25T20:06:57Z",
       "related": [],
       "related_count": 1,
-      "score": 21.7
+      "score": 18.42
     },
     {
       "id": "a4e2e784932ff79bba",
@@ -2364,7 +2946,7 @@
       "published": "2026-11-25T20:03:53Z",
       "related": [],
       "related_count": 1,
-      "score": 21.69
+      "score": 18.4
     },
     {
       "id": "da11858d17345fd798",
@@ -2376,7 +2958,7 @@
       "published": "2026-11-25T20:00:00Z",
       "related": [],
       "related_count": 1,
-      "score": 23.66
+      "score": 20.38
     },
     {
       "id": "f5c85490ef8827ff1d",
@@ -2388,7 +2970,7 @@
       "published": "2026-11-25T20:00:00Z",
       "related": [],
       "related_count": 1,
-      "score": 23.66
+      "score": 20.38
     },
     {
       "id": "9756a73920efb8a38a",
@@ -2400,7 +2982,7 @@
       "published": "2026-11-25T19:57:49Z",
       "related": [],
       "related_count": 1,
-      "score": 21.65
+      "score": 18.36
     },
     {
       "id": "9968e5444f7d18a8fc",
@@ -2412,7 +2994,7 @@
       "published": "2026-11-25T19:47:39Z",
       "related": [],
       "related_count": 1,
-      "score": 21.6
+      "score": 18.31
     },
     {
       "id": "937cb18f81a472b17a",
@@ -2424,7 +3006,7 @@
       "published": "2026-11-25T19:38:05Z",
       "related": [],
       "related_count": 1,
-      "score": 25.54
+      "score": 22.26
     },
     {
       "id": "d84ac36ab42815b665",
@@ -2436,7 +3018,7 @@
       "published": "2026-11-25T19:36:24Z",
       "related": [],
       "related_count": 1,
-      "score": 21.53
+      "score": 18.25
     },
     {
       "id": "3c6017909be1e2be5e",
@@ -2448,7 +3030,7 @@
       "published": "2026-11-25T19:26:44Z",
       "related": [],
       "related_count": 1,
-      "score": 21.48
+      "score": 18.19
     },
     {
       "id": "4d5e28e4a6a45dbd3a",
@@ -2460,7 +3042,7 @@
       "published": "2026-11-25T19:25:57Z",
       "related": [],
       "related_count": 1,
-      "score": 27.47
+      "score": 24.19
     },
     {
       "id": "81e78db00dd77466c9",
@@ -2472,7 +3054,7 @@
       "published": "2026-11-25T19:21:16Z",
       "related": [],
       "related_count": 1,
-      "score": 21.45
+      "score": 18.16
     },
     {
       "id": "248b50035ea815394c",
@@ -2484,7 +3066,7 @@
       "published": "2026-11-25T19:15:00Z",
       "related": [],
       "related_count": 1,
-      "score": 23.41
+      "score": 20.13
     },
     {
       "id": "14c7f050bbce17637c",
@@ -2496,7 +3078,7 @@
       "published": "2026-11-25T19:11:53Z",
       "related": [],
       "related_count": 1,
-      "score": 21.4
+      "score": 18.11
     },
     {
       "id": "be651f1c6baa925ebe",
@@ -2508,7 +3090,7 @@
       "published": "2026-11-25T18:41:33Z",
       "related": [],
       "related_count": 1,
-      "score": 22.23
+      "score": 18.94
     },
     {
       "id": "e0209feedf57eae911",
@@ -2520,7 +3102,7 @@
       "published": "2026-11-25T18:33:21Z",
       "related": [],
       "related_count": 1,
-      "score": 21.18
+      "score": 17.9
     },
     {
       "id": "70cd8668994a037e9f",
@@ -2532,7 +3114,7 @@
       "published": "2026-11-25T18:19:19Z",
       "related": [],
       "related_count": 1,
-      "score": 21.1
+      "score": 17.82
     },
     {
       "id": "25303bb323bd7fd1ab",
@@ -2544,7 +3126,7 @@
       "published": "2026-11-25T17:59:14Z",
       "related": [],
       "related_count": 1,
-      "score": 24.99
+      "score": 21.71
     },
     {
       "id": "cb9e154aa09fb563ae",
@@ -2556,7 +3138,7 @@
       "published": "2026-11-25T17:41:10Z",
       "related": [],
       "related_count": 1,
-      "score": 21.89
+      "score": 18.61
     },
     {
       "id": "5f4f89fe17d32ee1ad",
@@ -2568,7 +3150,7 @@
       "published": "2026-11-25T17:30:16Z",
       "related": [],
       "related_count": 1,
-      "score": 20.83
+      "score": 17.55
     },
     {
       "id": "5ed27273d353da11dc",
@@ -2580,7 +3162,7 @@
       "published": "2026-11-25T17:28:24Z",
       "related": [],
       "related_count": 1,
-      "score": 20.82
+      "score": 17.53
     },
     {
       "id": "fc0c0aa30d53a694cd",
@@ -2592,7 +3174,7 @@
       "published": "2026-11-25T17:26:13Z",
       "related": [],
       "related_count": 1,
-      "score": 20.81
+      "score": 17.52
     },
     {
       "id": "7b8275cd3e80896bc0",
@@ -2604,7 +3186,7 @@
       "published": "2026-11-25T16:56:47Z",
       "related": [],
       "related_count": 1,
-      "score": 20.65
+      "score": 17.36
     },
     {
       "id": "8292661f346f937d28",
@@ -2616,7 +3198,7 @@
       "published": "2026-11-25T16:42:11Z",
       "related": [],
       "related_count": 1,
-      "score": 19.56
+      "score": 16.28
     },
     {
       "id": "262a9181aaad6de98f",
@@ -2628,7 +3210,7 @@
       "published": "2026-11-25T16:23:03Z",
       "related": [],
       "related_count": 1,
-      "score": 20.46
+      "score": 17.17
     },
     {
       "id": "bd1252d2c453209a21",
@@ -2640,7 +3222,7 @@
       "published": "2026-11-25T16:20:53Z",
       "related": [],
       "related_count": 1,
-      "score": 24.45
+      "score": 21.16
     },
     {
       "id": "3831cb43e88343d1c1",
@@ -2652,7 +3234,7 @@
       "published": "2026-11-25T16:17:13Z",
       "related": [],
       "related_count": 1,
-      "score": 21.43
+      "score": 18.14
     },
     {
       "id": "5e9f685303b5f8dedc",
@@ -2664,7 +3246,7 @@
       "published": "2026-11-25T16:01:47Z",
       "related": [],
       "related_count": 1,
-      "score": 21.34
+      "score": 18.05
     },
     {
       "id": "9cbb62a2961c35062a",
@@ -2676,7 +3258,7 @@
       "published": "2026-11-25T15:55:40Z",
       "related": [],
       "related_count": 1,
-      "score": 20.31
+      "score": 17.02
     },
     {
       "id": "7eb500ed427b23994f",
@@ -2688,7 +3270,7 @@
       "published": "2026-11-25T15:50:11Z",
       "related": [],
       "related_count": 1,
-      "score": 21.28
+      "score": 17.99
     },
     {
       "id": "39b8d226fce805c769",
@@ -2700,7 +3282,7 @@
       "published": "2026-11-25T15:42:50Z",
       "related": [],
       "related_count": 1,
-      "score": 20.23
+      "score": 16.95
     },
     {
       "id": "c9d2b824b429a70aab",
@@ -2712,7 +3294,7 @@
       "published": "2026-11-25T15:41:39Z",
       "related": [],
       "related_count": 1,
-      "score": 20.23
+      "score": 16.94
     },
     {
       "id": "e556bb72a4598b6fae",
@@ -2724,7 +3306,7 @@
       "published": "2026-11-25T15:39:54Z",
       "related": [],
       "related_count": 1,
-      "score": 20.22
+      "score": 16.93
     },
     {
       "id": "7e9b8a674ab96e6bc7",
@@ -2736,7 +3318,7 @@
       "published": "2026-11-25T15:36:32Z",
       "related": [],
       "related_count": 1,
-      "score": 21.2
+      "score": 17.91
     },
     {
       "id": "c6fcaec312891a38f3",
@@ -2748,7 +3330,7 @@
       "published": "2026-11-25T15:23:59Z",
       "related": [],
       "related_count": 1,
-      "score": 20.13
+      "score": 16.84
     },
     {
       "id": "3cb6bb93f749e7c1e8",
@@ -2760,7 +3342,7 @@
       "published": "2026-11-25T14:59:44Z",
       "related": [],
       "related_count": 1,
-      "score": 24.0
+      "score": 20.71
     },
     {
       "id": "12d6d7c416b9d37d09",
@@ -2772,7 +3354,7 @@
       "published": "2026-11-25T14:54:17Z",
       "related": [],
       "related_count": 1,
-      "score": 20.97
+      "score": 17.68
     },
     {
       "id": "e741e9aa8b23c027e5",
@@ -2784,7 +3366,7 @@
       "published": "2026-11-25T14:46:41Z",
       "related": [],
       "related_count": 1,
-      "score": 19.92
+      "score": 16.64
     },
     {
       "id": "2b2b4457dbd216b7e3",
@@ -2796,7 +3378,7 @@
       "published": "2026-11-25T14:43:16Z",
       "related": [],
       "related_count": 1,
-      "score": 20.9
+      "score": 17.62
     },
     {
       "id": "93c26a8d778b9796f5",
@@ -2808,7 +3390,7 @@
       "published": "2026-11-25T14:37:44Z",
       "related": [],
       "related_count": 1,
-      "score": 20.87
+      "score": 17.59
     },
     {
       "id": "d5d1f7ad2b8093fe50",
@@ -2820,7 +3402,7 @@
       "published": "2026-11-25T14:37:26Z",
       "related": [],
       "related_count": 1,
-      "score": 20.87
+      "score": 17.58
     },
     {
       "id": "713a0d367806aced55",
@@ -2832,7 +3414,7 @@
       "published": "2026-11-25T14:32:09Z",
       "related": [],
       "related_count": 1,
-      "score": 19.84
+      "score": 16.56
     },
     {
       "id": "5f83bbe6e4b2195fb1",
@@ -2844,7 +3426,7 @@
       "published": "2026-11-25T14:29:50Z",
       "related": [],
       "related_count": 1,
-      "score": 19.83
+      "score": 16.54
     },
     {
       "id": "bcd56299a8dedae835",
@@ -2856,7 +3438,7 @@
       "published": "2026-11-25T14:29:00Z",
       "related": [],
       "related_count": 1,
-      "score": 19.82
+      "score": 16.54
     },
     {
       "id": "80c92b1aa72f0e4050",
@@ -2868,7 +3450,7 @@
       "published": "2026-11-25T14:18:45Z",
       "related": [],
       "related_count": 1,
-      "score": 29.77
+      "score": 26.48
     },
     {
       "id": "ef6b9a31279f08874a",
@@ -2880,7 +3462,7 @@
       "published": "2026-11-25T14:18:29Z",
       "related": [],
       "related_count": 1,
-      "score": 19.77
+      "score": 16.48
     },
     {
       "id": "6ce5a31937e45e898b",
@@ -2892,7 +3474,7 @@
       "published": "2026-11-25T14:17:01Z",
       "related": [],
       "related_count": 1,
-      "score": 21.76
+      "score": 18.47
     },
     {
       "id": "7e058a8235113434c6",
@@ -2904,7 +3486,7 @@
       "published": "2026-11-25T14:10:24Z",
       "related": [],
       "related_count": 1,
-      "score": 20.72
+      "score": 17.43
     },
     {
       "id": "f2579eda4f4155a66a",
@@ -2916,7 +3498,7 @@
       "published": "2026-11-25T14:06:13Z",
       "related": [],
       "related_count": 1,
-      "score": 19.7
+      "score": 16.41
     },
     {
       "id": "2ec160cd0a7aa0f54b",
@@ -2928,7 +3510,7 @@
       "published": "2026-11-25T14:03:18Z",
       "related": [],
       "related_count": 1,
-      "score": 19.68
+      "score": 16.4
     },
     {
       "id": "44b2bd7bd7fd371b19",
@@ -2940,7 +3522,7 @@
       "published": "2026-11-25T14:00:30Z",
       "related": [],
       "related_count": 1,
-      "score": 18.67
+      "score": 15.38
     },
     {
       "id": "de1ef296e0e56b865d",
@@ -2952,7 +3534,7 @@
       "published": "2026-11-25T14:00:29Z",
       "related": [],
       "related_count": 1,
-      "score": 19.67
+      "score": 16.38
     },
     {
       "id": "ae865563700ddb6727",
@@ -2964,7 +3546,7 @@
       "published": "2026-11-25T13:54:06Z",
       "related": [],
       "related_count": 1,
-      "score": 21.63
+      "score": 18.34
     },
     {
       "id": "a4a030850bdac1af32",
@@ -2976,7 +3558,7 @@
       "published": "2026-11-25T13:53:03Z",
       "related": [],
       "related_count": 1,
-      "score": 23.63
+      "score": 20.34
     },
     {
       "id": "42eab0e925cb21d0fe",
@@ -2988,7 +3570,7 @@
       "published": "2026-11-25T13:42:08Z",
       "related": [],
       "related_count": 1,
-      "score": 19.56
+      "score": 16.28
     },
     {
       "id": "d2befc4c6b71eb259a",
@@ -3000,7 +3582,7 @@
       "published": "2026-11-25T13:32:11Z",
       "related": [],
       "related_count": 1,
-      "score": 19.51
+      "score": 16.22
     },
     {
       "id": "139366d3989a7a4d56",
@@ -3012,7 +3594,7 @@
       "published": "2026-11-25T13:28:39Z",
       "related": [],
       "related_count": 1,
-      "score": 19.49
+      "score": 16.2
     },
     {
       "id": "2ef8b12d6992905d24",
@@ -3024,7 +3606,7 @@
       "published": "2026-11-25T13:24:55Z",
       "related": [],
       "related_count": 1,
-      "score": 19.47
+      "score": 16.18
     },
     {
       "id": "608c5d6bde08bb51a6",
@@ -3036,7 +3618,7 @@
       "published": "2026-11-25T13:24:29Z",
       "related": [],
       "related_count": 1,
-      "score": 23.47
+      "score": 20.18
     },
     {
       "id": "456c11823206c78dcd",
@@ -3048,7 +3630,7 @@
       "published": "2026-11-25T13:20:34Z",
       "related": [],
       "related_count": 1,
-      "score": 19.44
+      "score": 16.16
     },
     {
       "id": "28b42acbf2c1cda697",
@@ -3060,7 +3642,7 @@
       "published": "2026-11-25T13:14:52Z",
       "related": [],
       "related_count": 1,
-      "score": 19.41
+      "score": 16.13
     },
     {
       "id": "dc16f10332033aa35a",
@@ -3072,7 +3654,7 @@
       "published": "2026-11-25T13:04:13Z",
       "related": [],
       "related_count": 1,
-      "score": 20.35
+      "score": 17.07
     },
     {
       "id": "098e750a66e320d42c",
@@ -3084,7 +3666,7 @@
       "published": "2026-11-25T13:00:27Z",
       "related": [],
       "related_count": 1,
-      "score": 20.33
+      "score": 17.05
     },
     {
       "id": "82a7e96f5ead75f1a4",
@@ -3096,7 +3678,7 @@
       "published": "2026-11-25T13:00:26Z",
       "related": [],
       "related_count": 1,
-      "score": 19.33
+      "score": 16.05
     },
     {
       "id": "2ed4e76e289bd6a5dc",
@@ -3108,7 +3690,7 @@
       "published": "2026-11-25T13:00:26Z",
       "related": [],
       "related_count": 1,
-      "score": 19.33
+      "score": 16.05
     },
     {
       "id": "2ac2ebfb08bd616d32",
@@ -3120,7 +3702,7 @@
       "published": "2026-11-25T12:42:11Z",
       "related": [],
       "related_count": 1,
-      "score": 19.23
+      "score": 15.94
     },
     {
       "id": "23e30281578d306cbd",
@@ -3132,7 +3714,7 @@
       "published": "2026-11-25T12:38:58Z",
       "related": [],
       "related_count": 1,
-      "score": 19.21
+      "score": 15.93
     },
     {
       "id": "f3c0bb6bc847aae81f",
@@ -3144,7 +3726,7 @@
       "published": "2026-11-25T12:24:12Z",
       "related": [],
       "related_count": 1,
-      "score": 19.13
+      "score": 15.84
     },
     {
       "id": "5ef65b12c4335b8d2b",
@@ -3156,7 +3738,7 @@
       "published": "2026-11-25T12:22:02Z",
       "related": [],
       "related_count": 1,
-      "score": 19.12
+      "score": 15.83
     },
     {
       "id": "325bd516e7fa664c64",
@@ -3168,7 +3750,7 @@
       "published": "2026-11-25T12:21:49Z",
       "related": [],
       "related_count": 1,
-      "score": 23.12
+      "score": 19.83
     },
     {
       "id": "559f7e128af468b3be",
@@ -3180,7 +3762,7 @@
       "published": "2026-11-25T12:12:11Z",
       "related": [],
       "related_count": 1,
-      "score": 19.06
+      "score": 15.78
     },
     {
       "id": "5ef20cdf870da0ad22",
@@ -3192,7 +3774,7 @@
       "published": "2026-11-25T11:59:22Z",
       "related": [],
       "related_count": 1,
-      "score": 22.99
+      "score": 19.71
     },
     {
       "id": "be9d8104f40fe79111",
@@ -3204,7 +3786,7 @@
       "published": "2026-11-25T11:53:45Z",
       "related": [],
       "related_count": 1,
-      "score": 17.96
+      "score": 14.68
     },
     {
       "id": "eeddfad5f3d895ff3b",
@@ -3216,7 +3798,7 @@
       "published": "2026-11-25T11:48:01Z",
       "related": [],
       "related_count": 1,
-      "score": 18.93
+      "score": 15.64
     },
     {
       "id": "2a28cc00be3f0ed7aa",
@@ -3228,7 +3810,7 @@
       "published": "2026-11-25T11:43:37Z",
       "related": [],
       "related_count": 1,
-      "score": 19.91
+      "score": 16.62
     },
     {
       "id": "1e285df288f941aa96",
@@ -3240,7 +3822,7 @@
       "published": "2026-11-25T11:28:05Z",
       "related": [],
       "related_count": 1,
-      "score": 18.82
+      "score": 15.53
     },
     {
       "id": "ab8bef3eda570dfd7d",
@@ -3252,7 +3834,7 @@
       "published": "2026-11-25T11:15:35Z",
       "related": [],
       "related_count": 1,
-      "score": 18.75
+      "score": 15.46
     },
     {
       "id": "f06f066bc038b51e14",
@@ -3264,7 +3846,7 @@
       "published": "2026-11-25T11:00:47Z",
       "related": [],
       "related_count": 1,
-      "score": 18.67
+      "score": 15.38
     },
     {
       "id": "370c141c879f7e5cdb",
@@ -3276,7 +3858,7 @@
       "published": "2026-11-25T11:00:46Z",
       "related": [],
       "related_count": 1,
-      "score": 18.67
+      "score": 15.38
     },
     {
       "id": "c8e337956659165d76",
@@ -3288,7 +3870,7 @@
       "published": "2026-11-25T11:00:46Z",
       "related": [],
       "related_count": 1,
-      "score": 18.67
+      "score": 15.38
     },
     {
       "id": "dc97b377433005dc27",
@@ -3300,7 +3882,7 @@
       "published": "2026-11-25T10:52:09Z",
       "related": [],
       "related_count": 1,
-      "score": 18.62
+      "score": 15.33
     },
     {
       "id": "d169dc1dc60705a00e",
@@ -3312,7 +3894,7 @@
       "published": "2026-11-25T10:42:20Z",
       "related": [],
       "related_count": 1,
-      "score": 18.57
+      "score": 15.28
     },
     {
       "id": "ddb981b695ef50f994",
@@ -3324,7 +3906,7 @@
       "published": "2026-11-25T10:05:15Z",
       "related": [],
       "related_count": 1,
-      "score": 19.36
+      "score": 16.07
     },
     {
       "id": "475e600632dd1cbb68",
@@ -3336,7 +3918,7 @@
       "published": "2026-11-25T10:03:42Z",
       "related": [],
       "related_count": 1,
-      "score": 18.35
+      "score": 15.06
     },
     {
       "id": "51ee688839c9f17036",
@@ -3348,7 +3930,7 @@
       "published": "2026-11-25T10:03:12Z",
       "related": [],
       "related_count": 1,
-      "score": 19.35
+      "score": 16.06
     },
     {
       "id": "032a72e50798291036",
@@ -3360,7 +3942,7 @@
       "published": "2026-11-25T10:00:11Z",
       "related": [],
       "related_count": 1,
-      "score": 19.33
+      "score": 16.04
     },
     {
       "id": "4df14dfbfd89fb6af5",
@@ -3372,7 +3954,7 @@
       "published": "2026-11-25T09:54:32Z",
       "related": [],
       "related_count": 1,
-      "score": 18.3
+      "score": 15.01
     },
     {
       "id": "230e1d320dcab3fd00",
@@ -3384,7 +3966,7 @@
       "published": "2026-11-25T09:25:12Z",
       "related": [],
       "related_count": 1,
-      "score": 17.14
+      "score": 13.85
     },
     {
       "id": "258b0d7b67ff537779",
@@ -3396,7 +3978,7 @@
       "published": "2026-11-25T08:05:27Z",
       "related": [],
       "related_count": 1,
-      "score": 17.69
+      "score": 14.41
     },
     {
       "id": "55261058e13b8a4410",
@@ -3408,7 +3990,7 @@
       "published": "2026-11-25T07:34:44Z",
       "related": [],
       "related_count": 1,
-      "score": 17.52
+      "score": 14.24
     },
     {
       "id": "b4489acf38b4e4542a",
@@ -3420,7 +4002,7 @@
       "published": "2026-11-25T07:26:54Z",
       "related": [],
       "related_count": 1,
-      "score": 21.48
+      "score": 18.19
     },
     {
       "id": "f6e88895780d00c53e",
@@ -3432,7 +4014,7 @@
       "published": "2026-11-25T07:16:33Z",
       "related": [],
       "related_count": 1,
-      "score": 17.42
+      "score": 14.14
     },
     {
       "id": "3844b8b7c11aeb5cfa",
@@ -3444,7 +4026,7 @@
       "published": "2026-11-25T07:03:21Z",
       "related": [],
       "related_count": 1,
-      "score": 17.35
+      "score": 14.06
     },
     {
       "id": "d8eec74158e522ad4a",
@@ -3456,7 +4038,7 @@
       "published": "2026-11-25T07:00:10Z",
       "related": [],
       "related_count": 1,
-      "score": 18.33
+      "score": 15.04
     },
     {
       "id": "e94e4bd07134f54234",
@@ -3468,7 +4050,7 @@
       "published": "2026-11-25T07:00:09Z",
       "related": [],
       "related_count": 1,
-      "score": 18.33
+      "score": 15.04
     },
     {
       "id": "cbbcaa988380596786",
@@ -3480,7 +4062,7 @@
       "published": "2026-11-25T07:00:08Z",
       "related": [],
       "related_count": 1,
-      "score": 17.33
+      "score": 14.04
     },
     {
       "id": "3aff2f878d90c5bc55",
@@ -3492,7 +4074,7 @@
       "published": "2026-11-25T06:38:51Z",
       "related": [],
       "related_count": 1,
-      "score": 17.21
+      "score": 13.93
     },
     {
       "id": "80324d8b29a062662a",
@@ -3504,7 +4086,7 @@
       "published": "2026-11-25T06:29:46Z",
       "related": [],
       "related_count": 1,
-      "score": 17.16
+      "score": 13.88
     },
     {
       "id": "9c4ad7065554850967",
@@ -3516,7 +4098,7 @@
       "published": "2026-11-25T06:09:44Z",
       "related": [],
       "related_count": 1,
-      "score": 17.05
+      "score": 13.76
     },
     {
       "id": "1c765879041229af68",
@@ -3528,7 +4110,7 @@
       "published": "2026-11-25T06:00:07Z",
       "related": [],
       "related_count": 1,
-      "score": 21.0
+      "score": 17.71
     },
     {
       "id": "c72960f9c753c4b30b",
@@ -3540,7 +4122,7 @@
       "published": "2026-11-25T05:00:06Z",
       "related": [],
       "related_count": 1,
-      "score": 16.66
+      "score": 13.38
     },
     {
       "id": "b461d9e80c5bbcfa72",
@@ -3552,7 +4134,7 @@
       "published": "2026-11-25T05:00:06Z",
       "related": [],
       "related_count": 1,
-      "score": 16.66
+      "score": 13.38
     },
     {
       "id": "f90c570f343f69a20e",
@@ -3564,7 +4146,7 @@
       "published": "2026-11-25T03:57:11Z",
       "related": [],
       "related_count": 1,
-      "score": 17.31
+      "score": 14.03
     },
     {
       "id": "2cd5dbab424dc481c6",
@@ -3576,7 +4158,7 @@
       "published": "2026-11-25T03:55:50Z",
       "related": [],
       "related_count": 1,
-      "score": 22.31
+      "score": 19.02
     },
     {
       "id": "a6f10d07a2112a7574",
@@ -3588,7 +4170,7 @@
       "published": "2026-11-25T03:44:07Z",
       "related": [],
       "related_count": 1,
-      "score": 16.24
+      "score": 12.96
     },
     {
       "id": "a491d9e5326a4aca93",
@@ -3600,7 +4182,7 @@
       "published": "2026-11-25T03:28:37Z",
       "related": [],
       "related_count": 1,
-      "score": 16.16
+      "score": 12.87
     },
     {
       "id": "59f8125f98d4a5da73",
@@ -3612,7 +4194,7 @@
       "published": "2026-11-25T03:15:12Z",
       "related": [],
       "related_count": 1,
-      "score": 16.08
+      "score": 12.79
     },
     {
       "id": "8d5d7de370ec14c495",
@@ -3624,7 +4206,7 @@
       "published": "2026-11-25T03:05:42Z",
       "related": [],
       "related_count": 1,
-      "score": 16.03
+      "score": 12.74
     },
     {
       "id": "661824524e87afce47",
@@ -3636,7 +4218,7 @@
       "published": "2026-11-25T03:00:03Z",
       "related": [],
       "related_count": 1,
-      "score": 16.0
+      "score": 12.71
     },
     {
       "id": "8cb6d4ff83d205205d",
@@ -3648,7 +4230,7 @@
       "published": "2026-11-25T02:58:18Z",
       "related": [],
       "related_count": 1,
-      "score": 14.99
+      "score": 11.7
     },
     {
       "id": "d3033f8deac94a19bb",
@@ -3660,7 +4242,7 @@
       "published": "2026-11-25T02:43:33Z",
       "related": [],
       "related_count": 1,
-      "score": 15.91
+      "score": 12.62
     },
     {
       "id": "d62492cdbd095ed5d6",
@@ -3672,7 +4254,7 @@
       "published": "2026-11-25T02:31:42Z",
       "related": [],
       "related_count": 1,
-      "score": 15.84
+      "score": 12.55
     },
     {
       "id": "f1cf0915151f9160f3",
@@ -3684,7 +4266,7 @@
       "published": "2026-11-25T02:17:25Z",
       "related": [],
       "related_count": 1,
-      "score": 15.76
+      "score": 12.47
     },
     {
       "id": "c3ba980fc93bf1d622",
@@ -3696,7 +4278,7 @@
       "published": "2026-11-25T01:51:43Z",
       "related": [],
       "related_count": 1,
-      "score": 15.62
+      "score": 12.33
     },
     {
       "id": "793723f9d303243429",
@@ -3708,7 +4290,7 @@
       "published": "2026-11-25T01:51:02Z",
       "related": [],
       "related_count": 1,
-      "score": 15.61
+      "score": 12.33
     },
     {
       "id": "530ed3a0324d111add",
@@ -3720,7 +4302,7 @@
       "published": "2026-11-25T01:40:42Z",
       "related": [],
       "related_count": 1,
-      "score": 15.56
+      "score": 12.27
     },
     {
       "id": "25caeeae5d3257f436",
@@ -3732,7 +4314,7 @@
       "published": "2026-11-25T01:31:46Z",
       "related": [],
       "related_count": 1,
-      "score": 15.51
+      "score": 12.22
     },
     {
       "id": "58eb99796788ab4cce",
@@ -3744,7 +4326,7 @@
       "published": "2026-11-25T01:03:05Z",
       "related": [],
       "related_count": 1,
-      "score": 15.35
+      "score": 12.06
     },
     {
       "id": "938883fd27654fdcb3",
@@ -3756,7 +4338,7 @@
       "published": "2026-11-25T01:02:13Z",
       "related": [],
       "related_count": 1,
-      "score": 16.34
+      "score": 13.06
     },
     {
       "id": "55f5c733aa1e95fc1b",
@@ -3768,7 +4350,7 @@
       "published": "2026-11-25T01:00:36Z",
       "related": [],
       "related_count": 1,
-      "score": 15.33
+      "score": 12.05
     },
     {
       "id": "ef93c9b936286de02d",
@@ -3780,7 +4362,7 @@
       "published": "2026-11-25T01:00:01Z",
       "related": [],
       "related_count": 1,
-      "score": 15.33
+      "score": 12.04
     },
     {
       "id": "b1e3da263b95809547",
@@ -3792,7 +4374,7 @@
       "published": "2026-11-25T00:58:34Z",
       "related": [],
       "related_count": 1,
-      "score": 15.32
+      "score": 12.04
     },
     {
       "id": "7479960c8f3e1ab272",
@@ -3804,7 +4386,7 @@
       "published": "2026-11-25T00:56:48Z",
       "related": [],
       "related_count": 1,
-      "score": 15.31
+      "score": 12.03
     },
     {
       "id": "cae175b48be105ad74",
@@ -3816,7 +4398,7 @@
       "published": "2026-11-25T00:54:13Z",
       "related": [],
       "related_count": 1,
-      "score": 15.3
+      "score": 12.01
     },
     {
       "id": "40dd69094bdee56787",
@@ -3828,7 +4410,7 @@
       "published": "2026-11-25T00:42:17Z",
       "related": [],
       "related_count": 1,
-      "score": 15.23
+      "score": 11.95
     },
     {
       "id": "4084586f3b1431d771",
@@ -3840,7 +4422,7 @@
       "published": "2026-11-25T00:34:05Z",
       "related": [],
       "related_count": 1,
-      "score": 16.19
+      "score": 12.9
     },
     {
       "id": "5301d1cfeda93feddb",
@@ -3852,7 +4434,7 @@
       "published": "2026-11-25T00:33:16Z",
       "related": [],
       "related_count": 1,
-      "score": 15.18
+      "score": 11.9
     },
     {
       "id": "0e31fa5b92fe9e8302",
@@ -3864,7 +4446,7 @@
       "published": "2026-11-25T00:01:02Z",
       "related": [],
       "related_count": 1,
-      "score": 15.0
+      "score": 11.72
     },
     {
       "id": "eef3a275812995133c",
@@ -3876,7 +4458,7 @@
       "published": "2026-11-25T00:01:01Z",
       "related": [],
       "related_count": 1,
-      "score": 15.0
+      "score": 11.72
     },
     {
       "id": "31fde016f98ba5f557",
@@ -3888,7 +4470,7 @@
       "published": "2026-11-25T00:01:01Z",
       "related": [],
       "related_count": 1,
-      "score": 15.0
+      "score": 11.72
     },
     {
       "id": "372880988eaec6dd63",
@@ -3900,7 +4482,7 @@
       "published": "2026-11-25T00:01:01Z",
       "related": [],
       "related_count": 1,
-      "score": 15.0
+      "score": 11.72
     },
     {
       "id": "fa772ec1ca3eccd329",
@@ -3912,7 +4494,7 @@
       "published": "2026-11-24T23:50:31Z",
       "related": [],
       "related_count": 1,
-      "score": 14.94
+      "score": 11.66
     },
     {
       "id": "628f462e4ee194ea9a",
@@ -3924,7 +4506,7 @@
       "published": "2026-11-24T23:23:34Z",
       "related": [],
       "related_count": 1,
-      "score": 15.79
+      "score": 12.51
     },
     {
       "id": "26e04c6ad65bb6dc00",
@@ -3936,7 +4518,7 @@
       "published": "2026-11-24T23:05:11Z",
       "related": [],
       "related_count": 1,
-      "score": 14.69
+      "score": 11.41
     },
     {
       "id": "ad1a3d155e3ea77975",
@@ -3948,7 +4530,7 @@
       "published": "2026-11-24T23:03:59Z",
       "related": [],
       "related_count": 1,
-      "score": 14.69
+      "score": 11.4
     },
     {
       "id": "44fd095e1affff7056",
@@ -3960,7 +4542,7 @@
       "published": "2026-11-24T22:07:45Z",
       "related": [],
       "related_count": 1,
-      "score": 17.37
+      "score": 14.09
     },
     {
       "id": "2121610228398f90f8",
@@ -3972,7 +4554,7 @@
       "published": "2026-11-24T22:07:30Z",
       "related": [],
       "related_count": 1,
-      "score": 14.37
+      "score": 11.09
     },
     {
       "id": "5753af5ae27bf5080f",
@@ -3984,7 +4566,7 @@
       "published": "2026-11-24T22:05:21Z",
       "related": [],
       "related_count": 1,
-      "score": 14.36
+      "score": 11.07
     },
     {
       "id": "48f0daebc3521576dd",
@@ -3996,7 +4578,7 @@
       "published": "2026-11-24T22:02:13Z",
       "related": [],
       "related_count": 1,
-      "score": 14.34
+      "score": 11.06
     },
     {
       "id": "404bca8fba4a4b53d6",
@@ -4008,7 +4590,7 @@
       "published": "2026-11-24T21:52:05Z",
       "related": [],
       "related_count": 1,
-      "score": 14.29
+      "score": 11.0
     },
     {
       "id": "7ef7df7829bd9a63e3",
@@ -4020,7 +4602,7 @@
       "published": "2026-11-24T21:15:23Z",
       "related": [],
       "related_count": 1,
-      "score": 15.08
+      "score": 11.8
     },
     {
       "id": "8e6ff0a6679a8e281f",
@@ -4032,7 +4614,7 @@
       "published": "2026-11-24T21:13:39Z",
       "related": [],
       "related_count": 1,
-      "score": 14.07
+      "score": 10.79
     },
     {
       "id": "58f6efc5e020f58929",
@@ -4044,7 +4626,7 @@
       "published": "2026-11-24T21:04:03Z",
       "related": [],
       "related_count": 1,
-      "score": 13.02
+      "score": 9.73
     },
     {
       "id": "68625dcb715f948fb7",
@@ -4056,7 +4638,7 @@
       "published": "2026-11-24T20:37:40Z",
       "related": [],
       "related_count": 1,
-      "score": 13.87
+      "score": 10.59
     },
     {
       "id": "6fe17d37433b9e7732",
@@ -4068,7 +4650,7 @@
       "published": "2026-11-24T20:32:02Z",
       "related": [],
       "related_count": 1,
-      "score": 12.84
+      "score": 9.55
     },
     {
       "id": "58bb594da27a8dd40d",
@@ -4080,7 +4662,7 @@
       "published": "2026-11-24T20:20:24Z",
       "related": [],
       "related_count": 1,
-      "score": 13.78
+      "score": 10.49
     },
     {
       "id": "f7c74b9fc1ffbbba43",
@@ -4092,7 +4674,7 @@
       "published": "2026-11-24T20:16:24Z",
       "related": [],
       "related_count": 1,
-      "score": 13.75
+      "score": 10.47
     },
     {
       "id": "c330e649fd4a225575",
@@ -4104,7 +4686,7 @@
       "published": "2026-11-24T20:05:09Z",
       "related": [],
       "related_count": 1,
-      "score": 13.69
+      "score": 10.41
     },
     {
       "id": "a8c89e8d04fd96c15c",
@@ -4116,7 +4698,7 @@
       "published": "2026-11-24T20:04:50Z",
       "related": [],
       "related_count": 1,
-      "score": 13.69
+      "score": 10.4
     },
     {
       "id": "e23aca651a29c12918",
@@ -4128,7 +4710,7 @@
       "published": "2026-11-24T20:00:31Z",
       "related": [],
       "related_count": 1,
-      "score": 13.67
+      "score": 10.38
     },
     {
       "id": "20c7365adba09e3118",
@@ -4140,7 +4722,7 @@
       "published": "2026-11-24T19:35:30Z",
       "related": [],
       "related_count": 1,
-      "score": 13.53
+      "score": 10.24
     },
     {
       "id": "34a11fc87185547e22",
@@ -4152,7 +4734,7 @@
       "published": "2026-11-24T19:30:54Z",
       "related": [],
       "related_count": 1,
-      "score": 17.5
+      "score": 14.22
     },
     {
       "id": "dae0f6fbf396d7d9a1",
@@ -4164,7 +4746,7 @@
       "published": "2026-11-24T19:27:23Z",
       "related": [],
       "related_count": 1,
-      "score": 13.48
+      "score": 10.2
     },
     {
       "id": "42aabf95bd537d5c79",
@@ -4176,7 +4758,7 @@
       "published": "2026-11-24T19:26:39Z",
       "related": [],
       "related_count": 1,
-      "score": 15.48
+      "score": 12.19
     },
     {
       "id": "6bf0dbe9bf08cce95b",
@@ -4188,7 +4770,7 @@
       "published": "2026-11-24T19:10:31Z",
       "related": [],
       "related_count": 1,
-      "score": 13.39
+      "score": 10.1
     },
     {
       "id": "233f22d85441bdf648",
@@ -4200,7 +4782,7 @@
       "published": "2026-11-24T19:07:26Z",
       "related": [],
       "related_count": 1,
-      "score": 15.37
+      "score": 12.08
     },
     {
       "id": "12d967513c03c7e27c",
@@ -4212,7 +4794,7 @@
       "published": "2026-11-24T19:02:15Z",
       "related": [],
       "related_count": 1,
-      "score": 13.34
+      "score": 10.06
     },
     {
       "id": "59001fee6e497a3683",
@@ -4224,7 +4806,7 @@
       "published": "2026-11-24T19:00:00Z",
       "related": [],
       "related_count": 1,
-      "score": 15.33
+      "score": 12.04
     },
     {
       "id": "0035f7eec15a1ff337",
@@ -4236,7 +4818,7 @@
       "published": "2026-11-24T18:47:48Z",
       "related": [],
       "related_count": 1,
-      "score": 13.26
+      "score": 9.98
     },
     {
       "id": "c987c5d81ba2c9241e",
@@ -4248,7 +4830,7 @@
       "published": "2026-11-24T18:34:43Z",
       "related": [],
       "related_count": 1,
-      "score": 19.19
+      "score": 15.9
     },
     {
       "id": "2e20adbe26cece8477",
@@ -4260,7 +4842,7 @@
       "published": "2026-11-24T18:21:43Z",
       "related": [],
       "related_count": 1,
-      "score": 13.12
+      "score": 9.83
     },
     {
       "id": "13b1300193b1b6ba94",
@@ -4272,7 +4854,7 @@
       "published": "2026-11-24T18:07:46Z",
       "related": [],
       "related_count": 1,
-      "score": 13.04
+      "score": 9.75
     },
     {
       "id": "c9103f59a2af9dc284",
@@ -4284,7 +4866,7 @@
       "published": "2026-11-24T18:02:53Z",
       "related": [],
       "related_count": 1,
-      "score": 13.01
+      "score": 9.73
     },
     {
       "id": "8b4fc202bcab4ccefc",
@@ -4296,7 +4878,7 @@
       "published": "2026-11-24T17:51:45Z",
       "related": [],
       "related_count": 1,
-      "score": 12.95
+      "score": 9.66
     },
     {
       "id": "ec5929808837d1d26e",
@@ -4308,7 +4890,7 @@
       "published": "2026-11-24T17:21:23Z",
       "related": [],
       "related_count": 1,
-      "score": 13.78
+      "score": 10.5
     },
     {
       "id": "b61d93e9d4fa4ecc02",
@@ -4320,7 +4902,7 @@
       "published": "2026-11-24T17:15:19Z",
       "related": [],
       "related_count": 1,
-      "score": 13.75
+      "score": 10.46
     },
     {
       "id": "ab8e32321e550923ec",
@@ -4332,7 +4914,7 @@
       "published": "2026-11-24T17:04:00Z",
       "related": [],
       "related_count": 1,
-      "score": 12.69
+      "score": 9.4
     },
     {
       "id": "0c0e9d76e1c9759f84",
@@ -4344,7 +4926,7 @@
       "published": "2026-11-24T16:49:07Z",
       "related": [],
       "related_count": 1,
-      "score": 12.6
+      "score": 9.32
     },
     {
       "id": "b340b7c573b80a93fa",
@@ -4356,7 +4938,7 @@
       "published": "2026-11-24T16:42:46Z",
       "related": [],
       "related_count": 1,
-      "score": 13.57
+      "score": 10.28
     },
     {
       "id": "767587e35b01e81243",
@@ -4368,7 +4950,7 @@
       "published": "2026-11-24T16:27:41Z",
       "related": [],
       "related_count": 1,
-      "score": 13.48
+      "score": 10.2
     },
     {
       "id": "ce79c7e5bc4c3d72d9",
@@ -4380,7 +4962,7 @@
       "published": "2026-11-24T16:24:49Z",
       "related": [],
       "related_count": 1,
-      "score": 12.47
+      "score": 9.18
     },
     {
       "id": "3cc382ea715db7a8c6",
@@ -4392,7 +4974,7 @@
       "published": "2026-11-24T16:09:12Z",
       "related": [],
       "related_count": 1,
-      "score": 13.38
+      "score": 10.09
     },
     {
       "id": "a5c016ed0e699995af",
@@ -4404,7 +4986,7 @@
       "published": "2026-11-24T16:00:50Z",
       "related": [],
       "related_count": 1,
-      "score": 12.33
+      "score": 9.05
     },
     {
       "id": "9285a607459626bcf1",
@@ -4416,7 +4998,7 @@
       "published": "2026-11-24T15:35:53Z",
       "related": [],
       "related_count": 1,
-      "score": 12.2
+      "score": 8.91
     },
     {
       "id": "d043d331b480bca741",
@@ -4428,7 +5010,7 @@
       "published": "2026-11-24T15:23:20Z",
       "related": [],
       "related_count": 1,
-      "score": 11.13
+      "score": 7.84
     },
     {
       "id": "4b05ad5fbc9453f7af",
@@ -4440,7 +5022,7 @@
       "published": "2026-11-24T15:19:46Z",
       "related": [],
       "related_count": 1,
-      "score": 12.11
+      "score": 8.82
     },
     {
       "id": "b1df1b9433f1c0a078",
@@ -4452,7 +5034,7 @@
       "published": "2026-11-24T15:17:28Z",
       "related": [],
       "related_count": 1,
-      "score": 16.09
+      "score": 12.81
     },
     {
       "id": "1206283e5500c1b805",
@@ -4464,7 +5046,7 @@
       "published": "2026-11-24T15:03:36Z",
       "related": [],
       "related_count": 1,
-      "score": 12.02
+      "score": 8.73
     },
     {
       "id": "21a80f20985b2c816e",
@@ -4476,7 +5058,7 @@
       "published": "2026-11-24T14:51:58Z",
       "related": [],
       "related_count": 1,
-      "score": 13.95
+      "score": 10.67
     },
     {
       "id": "5e1f1a009dfeb5d90e",
@@ -4488,7 +5070,7 @@
       "published": "2026-11-24T14:51:18Z",
       "related": [],
       "related_count": 1,
-      "score": 11.95
+      "score": 8.66
     },
     {
       "id": "f3204677b90014660c",
@@ -4500,7 +5082,7 @@
       "published": "2026-11-24T14:46:01Z",
       "related": [],
       "related_count": 1,
-      "score": 11.92
+      "score": 8.63
     },
     {
       "id": "7b4a79923847f73255",
@@ -4512,7 +5094,7 @@
       "published": "2026-11-24T14:36:32Z",
       "related": [],
       "related_count": 1,
-      "score": 11.87
+      "score": 8.58
     },
     {
       "id": "8f8567df36656b0d6c",
@@ -4524,7 +5106,7 @@
       "published": "2026-11-24T14:00:50Z",
       "related": [],
       "related_count": 1,
-      "score": 11.67
+      "score": 8.38
     },
     {
       "id": "1a0f4ccddeb8fc3292",
@@ -4536,7 +5118,7 @@
       "published": "2026-11-24T14:00:49Z",
       "related": [],
       "related_count": 1,
-      "score": 11.67
+      "score": 8.38
     },
     {
       "id": "838c3e7f4be5ef8e27",
@@ -4548,7 +5130,7 @@
       "published": "2026-11-24T14:00:48Z",
       "related": [],
       "related_count": 1,
-      "score": 11.67
+      "score": 8.38
     },
     {
       "id": "e626d0a1f1fe424361",
@@ -4560,7 +5142,7 @@
       "published": "2026-11-24T13:31:29Z",
       "related": [],
       "related_count": 1,
-      "score": 11.51
+      "score": 8.22
     },
     {
       "id": "f8a45eb04a9b06b7a0",
@@ -4572,7 +5154,7 @@
       "published": "2026-11-24T13:30:22Z",
       "related": [],
       "related_count": 1,
-      "score": 12.5
+      "score": 9.21
     },
     {
       "id": "ee84b35a48d94c1bdc",
@@ -4584,7 +5166,7 @@
       "published": "2026-11-24T13:03:20Z",
       "related": [],
       "related_count": 1,
-      "score": 10.35
+      "score": 7.06
     },
     {
       "id": "540b8caaa3e3eb1a4d",
@@ -4596,7 +5178,7 @@
       "published": "2026-11-24T12:45:43Z",
       "related": [],
       "related_count": 1,
-      "score": 11.25
+      "score": 7.96
     },
     {
       "id": "e9b194fb63d161714f",
@@ -4608,7 +5190,7 @@
       "published": "2026-11-24T12:22:04Z",
       "related": [],
       "related_count": 1,
-      "score": 11.12
+      "score": 7.83
     },
     {
       "id": "18d73eeb3828d130fd",
@@ -4620,7 +5202,7 @@
       "published": "2026-11-24T12:00:01Z",
       "related": [],
       "related_count": 1,
-      "score": 13.0
+      "score": 9.71
     },
     {
       "id": "314817842f6fb7d0b1",
@@ -4632,7 +5214,7 @@
       "published": "2026-11-24T11:58:45Z",
       "related": [],
       "related_count": 1,
-      "score": 11.99
+      "score": 8.7
     },
     {
       "id": "f55c67a396ac96fb14",
@@ -4644,7 +5226,7 @@
       "published": "2026-11-24T11:45:52Z",
       "related": [],
       "related_count": 1,
-      "score": 10.92
+      "score": 7.63
     },
     {
       "id": "4177302502003afd5b",
@@ -4656,7 +5238,7 @@
       "published": "2026-11-24T11:15:30Z",
       "related": [],
       "related_count": 1,
-      "score": 16.75
+      "score": 13.46
     },
     {
       "id": "0447e66c21be7e6889",
@@ -4668,7 +5250,7 @@
       "published": "2026-11-24T11:10:57Z",
       "related": [],
       "related_count": 1,
-      "score": 10.72
+      "score": 7.44
     },
     {
       "id": "6e6463040cd392f949",
@@ -4680,7 +5262,7 @@
       "published": "2026-11-24T11:00:45Z",
       "related": [],
       "related_count": 1,
-      "score": 10.67
+      "score": 7.38
     },
     {
       "id": "17957355570a66c106",
@@ -4692,7 +5274,7 @@
       "published": "2026-11-24T10:59:40Z",
       "related": [],
       "related_count": 1,
-      "score": 10.66
+      "score": 7.38
     },
     {
       "id": "925ae6966d6a71a3bc",
@@ -4704,7 +5286,7 @@
       "published": "2026-11-24T10:58:51Z",
       "related": [],
       "related_count": 1,
-      "score": 10.66
+      "score": 7.37
     },
     {
       "id": "11796cb061e28c09b8",
@@ -4716,7 +5298,7 @@
       "published": "2026-11-24T10:56:56Z",
       "related": [],
       "related_count": 1,
-      "score": 10.65
+      "score": 7.36
     },
     {
       "id": "81bedcaccb8e5cb521",
@@ -4728,7 +5310,7 @@
       "published": "2026-11-24T10:53:37Z",
       "related": [],
       "related_count": 1,
-      "score": 9.63
+      "score": 6.34
     },
     {
       "id": "43e1c911f6e36e5358",
@@ -4740,7 +5322,7 @@
       "published": "2026-11-24T10:00:38Z",
       "related": [],
       "related_count": 1,
-      "score": 11.33
+      "score": 8.05
     },
     {
       "id": "0df38f640a98ff54a2",
@@ -4752,7 +5334,7 @@
       "published": "2026-11-24T10:00:13Z",
       "related": [],
       "related_count": 1,
-      "score": 10.33
+      "score": 7.04
     },
     {
       "id": "ed4958cded94b81e6a",
@@ -4764,7 +5346,7 @@
       "published": "2026-11-24T09:46:01Z",
       "related": [],
       "related_count": 1,
-      "score": 11.25
+      "score": 7.97
     },
     {
       "id": "33bb207e5aa9a7eca6",
@@ -4776,7 +5358,7 @@
       "published": "2026-11-24T09:36:51Z",
       "related": [],
       "related_count": 1,
-      "score": 10.2
+      "score": 6.91
     },
     {
       "id": "fbc66d99e3b42bebcf",
@@ -4788,7 +5370,7 @@
       "published": "2026-11-24T09:09:41Z",
       "related": [],
       "related_count": 1,
-      "score": 10.05
+      "score": 6.76
     },
     {
       "id": "b03d1c5007c9bc8905",
@@ -4800,7 +5382,7 @@
       "published": "2026-11-24T08:47:59Z",
       "related": [],
       "related_count": 1,
-      "score": 8.93
+      "score": 5.64
     },
     {
       "id": "910703fb98bae98657",
@@ -4812,7 +5394,7 @@
       "published": "2026-11-24T08:24:26Z",
       "related": [],
       "related_count": 1,
-      "score": 9.8
+      "score": 6.51
     },
     {
       "id": "a1245f50162a8e9569",
@@ -4824,7 +5406,7 @@
       "published": "2026-11-24T08:00:11Z",
       "related": [],
       "related_count": 1,
-      "score": 9.66
+      "score": 6.38
     },
     {
       "id": "b9b46a9c33ac8b645b",
@@ -4836,7 +5418,7 @@
       "published": "2026-11-24T08:00:11Z",
       "related": [],
       "related_count": 1,
-      "score": 9.66
+      "score": 6.38
     },
     {
       "id": "db8c0f0527896bc03f",
@@ -4848,7 +5430,7 @@
       "published": "2026-11-24T07:54:45Z",
       "related": [],
       "related_count": 1,
-      "score": 8.63
+      "score": 5.35
     },
     {
       "id": "9ac1df1959e9130d49",
@@ -4860,7 +5442,7 @@
       "published": "2026-11-24T07:42:57Z",
       "related": [],
       "related_count": 1,
-      "score": 9.57
+      "score": 6.28
     },
     {
       "id": "6af8e9a69c16d8352b",
@@ -4872,7 +5454,7 @@
       "published": "2026-11-24T07:30:10Z",
       "related": [],
       "related_count": 1,
-      "score": 9.5
+      "score": 6.21
     },
     {
       "id": "f649cd055ad136c41c",
@@ -4884,7 +5466,7 @@
       "published": "2026-11-24T07:26:27Z",
       "related": [],
       "related_count": 1,
-      "score": 9.48
+      "score": 6.19
     },
     {
       "id": "46a691a8bef24db17f",
@@ -4896,7 +5478,7 @@
       "published": "2026-11-24T07:21:53Z",
       "related": [],
       "related_count": 1,
-      "score": 9.45
+      "score": 6.17
     },
     {
       "id": "c09977828f6edc204a",
@@ -4908,7 +5490,7 @@
       "published": "2026-11-24T07:00:10Z",
       "related": [],
       "related_count": 1,
-      "score": 10.33
+      "score": 7.04
     },
     {
       "id": "f0c39a9f1da9fea58b",
@@ -4920,7 +5502,7 @@
       "published": "2026-11-24T07:00:10Z",
       "related": [],
       "related_count": 1,
-      "score": 10.33
+      "score": 7.04
     },
     {
       "id": "dea631ec6ef9981bcf",
@@ -4932,7 +5514,7 @@
       "published": "2026-11-24T07:00:10Z",
       "related": [],
       "related_count": 1,
-      "score": 13.33
+      "score": 10.04
     },
     {
       "id": "144c96b12fb7d71ffd",
@@ -4944,7 +5526,7 @@
       "published": "2026-11-24T07:00:09Z",
       "related": [],
       "related_count": 1,
-      "score": 10.33
+      "score": 7.04
     },
     {
       "id": "137b71fbb706c311ab",
@@ -4956,7 +5538,7 @@
       "published": "2026-11-24T06:23:01Z",
       "related": [],
       "related_count": 1,
-      "score": 9.12
+      "score": 6
     },
     {
       "id": "9cd0ffccae77823c02",
@@ -4968,7 +5550,7 @@
       "published": "2026-11-24T06:20:10Z",
       "related": [],
       "related_count": 1,
-      "score": 9.11
+      "score": 6
     },
     {
       "id": "1495c578f506d40672",
@@ -4980,7 +5562,7 @@
       "published": "2026-11-24T05:58:15Z",
       "related": [],
       "related_count": 1,
-      "score": 8.99
+      "score": 6
     },
     {
       "id": "9e6c080a316fb501f7",
@@ -4992,7 +5574,7 @@
       "published": "2026-11-24T05:54:14Z",
       "related": [],
       "related_count": 1,
-      "score": 8.96
+      "score": 6
     },
     {
       "id": "aa4aa99a3cc4959f8e",
@@ -5004,7 +5586,7 @@
       "published": "2026-11-24T05:07:16Z",
       "related": [],
       "related_count": 1,
-      "score": 8.7
+      "score": 6
     },
     {
       "id": "2730ebb29e8c6cb7fd",
@@ -5016,7 +5598,7 @@
       "published": "2026-11-24T05:00:07Z",
       "related": [],
       "related_count": 1,
-      "score": 9.66
+      "score": 7
     },
     {
       "id": "4b72ea9f483436cf9a",
@@ -5028,7 +5610,7 @@
       "published": "2026-11-24T05:00:07Z",
       "related": [],
       "related_count": 1,
-      "score": 8.66
+      "score": 6
     },
     {
       "id": "d99b6fbc73a0f577a4",
@@ -5040,7 +5622,7 @@
       "published": "2026-11-24T04:14:43Z",
       "related": [],
       "related_count": 1,
-      "score": 8.41
+      "score": 6
     },
     {
       "id": "99a8193aba40db0d7a",
@@ -5052,7 +5634,7 @@
       "published": "2026-11-24T04:03:57Z",
       "related": [],
       "related_count": 1,
-      "score": 9.35
+      "score": 7
     },
     {
       "id": "601e0f1cddafcced16",
@@ -5064,7 +5646,7 @@
       "published": "2026-11-24T03:04:41Z",
       "related": [],
       "related_count": 1,
-      "score": 8.02
+      "score": 6
     },
     {
       "id": "d15866c88edbe356ac",
@@ -5076,7 +5658,7 @@
       "published": "2026-11-24T03:00:04Z",
       "related": [],
       "related_count": 1,
-      "score": 8.0
+      "score": 6
     },
     {
       "id": "a08789ad4728009b77",
@@ -5088,7 +5670,7 @@
       "published": "2026-11-24T02:37:39Z",
       "related": [],
       "related_count": 1,
-      "score": 7.87
+      "score": 6
     },
     {
       "id": "671217af576440ef2b",
@@ -5100,7 +5682,7 @@
       "published": "2026-11-24T02:37:36Z",
       "related": [],
       "related_count": 1,
-      "score": 7.87
+      "score": 6
     },
     {
       "id": "c7b22f00d6f5c7e2ff",
@@ -5112,7 +5694,7 @@
       "published": "2026-11-24T02:20:44Z",
       "related": [],
       "related_count": 1,
-      "score": 6.78
+      "score": 5
     },
     {
       "id": "4a80eedd4b2d832fb6",
@@ -5124,7 +5706,7 @@
       "published": "2026-11-24T01:21:41Z",
       "related": [],
       "related_count": 1,
-      "score": 7.45
+      "score": 6
     },
     {
       "id": "6cfb87296bf9e2c629",
@@ -5136,7 +5718,7 @@
       "published": "2026-11-24T00:56:10Z",
       "related": [],
       "related_count": 1,
-      "score": 7.31
+      "score": 6
     },
     {
       "id": "e17f2bf9d5ae43a7d9",
@@ -5148,7 +5730,7 @@
       "published": "2026-11-24T00:28:48Z",
       "related": [],
       "related_count": 1,
-      "score": 8.16
+      "score": 7
     },
     {
       "id": "2252b3cf3842bfc99b",
@@ -5160,7 +5742,7 @@
       "published": "2026-11-24T00:23:25Z",
       "related": [],
       "related_count": 1,
-      "score": 7.13
+      "score": 6
     },
     {
       "id": "b0eee26787939c3fec",
@@ -5172,7 +5754,7 @@
       "published": "2026-11-24T00:11:08Z",
       "related": [],
       "related_count": 1,
-      "score": 8.06
+      "score": 7
     },
     {
       "id": "68a2e347f42ff11385",
@@ -5184,7 +5766,7 @@
       "published": "2026-11-24T00:02:15Z",
       "related": [],
       "related_count": 1,
-      "score": 7.01
+      "score": 6
     },
     {
       "id": "d85942948dd0f1da5c",
@@ -5196,7 +5778,7 @@
       "published": "2026-11-24T00:01:04Z",
       "related": [],
       "related_count": 1,
-      "score": 8.0
+      "score": 7
     },
     {
       "id": "513ce1c05b2aa1378a",
@@ -5208,7 +5790,7 @@
       "published": "2026-11-24T00:01:01Z",
       "related": [],
       "related_count": 1,
-      "score": 7.0
+      "score": 6
     },
     {
       "id": "26753e152c93d6f356",
@@ -5220,7 +5802,7 @@
       "published": "2026-11-24T00:01:00Z",
       "related": [],
       "related_count": 1,
-      "score": 7.0
+      "score": 6
     },
     {
       "id": "cc6e59cb23c25671d1",
@@ -5232,7 +5814,7 @@
       "published": "2026-11-23T23:57:33Z",
       "related": [],
       "related_count": 1,
-      "score": 8.98
+      "score": 8
     },
     {
       "id": "07a48305b954a38613",
@@ -5244,7 +5826,7 @@
       "published": "2026-11-23T23:53:20Z",
       "related": [],
       "related_count": 1,
-      "score": 5.96
+      "score": 5
     },
     {
       "id": "e958827140ddeadba7",
@@ -5256,7 +5838,7 @@
       "published": "2026-11-23T23:28:19Z",
       "related": [],
       "related_count": 1,
-      "score": 5.82
+      "score": 5
     },
     {
       "id": "a8e778c7796b497ebf",
@@ -5268,7 +5850,7 @@
       "published": "2026-11-23T23:16:08Z",
       "related": [],
       "related_count": 1,
-      "score": 6.75
+      "score": 6
     },
     {
       "id": "be051504a7d70372cc",
@@ -5280,7 +5862,7 @@
       "published": "2026-11-23T23:14:34Z",
       "related": [],
       "related_count": 1,
-      "score": 5.74
+      "score": 5
     },
     {
       "id": "ff04f507bd913ec51d",
@@ -5292,7 +5874,7 @@
       "published": "2026-11-23T23:02:18Z",
       "related": [],
       "related_count": 1,
-      "score": 6.68
+      "score": 6
     },
     {
       "id": "602ba2c4f0338566ea",
@@ -5304,7 +5886,7 @@
       "published": "2026-11-23T22:59:07Z",
       "related": [],
       "related_count": 1,
-      "score": 6.66
+      "score": 6
     },
     {
       "id": "72d8ed2c1bfaddfbb9",
@@ -5316,7 +5898,7 @@
       "published": "2026-11-23T22:41:48Z",
       "related": [],
       "related_count": 1,
-      "score": 6.56
+      "score": 6
     },
     {
       "id": "d4bd5749e395acf385",
@@ -5328,7 +5910,7 @@
       "published": "2026-11-23T22:23:40Z",
       "related": [],
       "related_count": 1,
-      "score": 5.46
+      "score": 5
     },
     {
       "id": "908e107f4d06eaf60a",
@@ -5340,7 +5922,7 @@
       "published": "2026-11-23T22:21:45Z",
       "related": [],
       "related_count": 1,
-      "score": 6.45
+      "score": 6
     },
     {
       "id": "92a5b96e63c7cd8c2a",
@@ -5352,7 +5934,7 @@
       "published": "2026-11-23T21:55:27Z",
       "related": [],
       "related_count": 1,
-      "score": 8.31
+      "score": 8
     },
     {
       "id": "983e41215dae999253",
@@ -5364,7 +5946,7 @@
       "published": "2026-11-23T21:53:49Z",
       "related": [],
       "related_count": 1,
-      "score": 5.3
+      "score": 5
     },
     {
       "id": "d6226fe8cbda525403",
@@ -5376,7 +5958,7 @@
       "published": "2026-11-23T21:24:47Z",
       "related": [],
       "related_count": 1,
-      "score": 6.13
+      "score": 6
     },
     {
       "id": "c5aabf652cb518bfb7",
@@ -5388,7 +5970,7 @@
       "published": "2026-11-23T21:23:42Z",
       "related": [],
       "related_count": 1,
-      "score": 7.13
+      "score": 7
     },
     {
       "id": "f32051113a608e0bfd",
@@ -5400,7 +5982,7 @@
       "published": "2026-11-23T21:22:13Z",
       "related": [],
       "related_count": 1,
-      "score": 7.12
+      "score": 7
     },
     {
       "id": "dde02e37a04c92b25e",
@@ -5412,7 +5994,7 @@
       "published": "2026-11-23T21:09:10Z",
       "related": [],
       "related_count": 1,
-      "score": 6.05
+      "score": 6
     },
     {
       "id": "90810691c3ff1dd863",
@@ -5424,7 +6006,7 @@
       "published": "2026-11-23T21:04:03Z",
       "related": [],
       "related_count": 1,
-      "score": 6.02
+      "score": 6
     },
     {
       "id": "9373344ab0f2ff505d",
@@ -5436,7 +6018,7 @@
       "published": "2026-11-23T21:03:34Z",
       "related": [],
       "related_count": 1,
-      "score": 10.02
+      "score": 10
     },
     {
       "id": "d8031002a0819afd30",
@@ -5448,7 +6030,7 @@
       "published": "2026-11-23T21:00:59Z",
       "related": [],
       "related_count": 1,
-      "score": 6.0
+      "score": 6
     },
     {
       "id": "d946e06b460f657bf1",
@@ -5458,582 +6040,6 @@
       "url": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
       "category": "World",
       "published": "2026-11-23T20:56:17Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "94c21bf47576820008",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T20:48:35Z",
-      "related": [],
-      "related_count": 1,
-      "score": 10
-    },
-    {
-      "id": "4a063f5a26eadb20f8",
-      "title": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges",
-      "description": "London force also makes eight arrests in operation centred on New Spitalfields Market in the capital A tonne of cocaine was found hidden in boxes of oranges as part of one of the biggest drug seizures in the history of t…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
-      "category": "World",
-      "published": "2026-11-23T20:41:43Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "4909db281b132656cf",
-      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-      "description": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
-      "category": "Technology",
-      "published": "2026-11-23T20:22:49Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "06ffb701567fe33a0e",
-      "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
-      "description": "Mahdi Tounsi appeared with visible bruising after being interrogated by police on his association with Israeli-Palestinian organisations Israeli professors, students and rights activists are calling for the immediate rel…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
-      "category": "World",
-      "published": "2026-11-23T19:48:58Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "e60af7b9ac5eae7c6a",
-      "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
-      "description": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-      "category": "Technology",
-      "published": "2026-11-23T19:34:38Z",
-      "related": [],
-      "related_count": 1,
-      "score": 10
-    },
-    {
-      "id": "e9cb56df4ed559282b",
-      "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
-      "description": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding another refer…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-      "category": "World",
-      "published": "2026-11-23T19:26:01Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "9c8949b98edab78b6d",
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T18:49:19Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "b10959f2a16ad3b958",
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "description": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-      "category": "Economy",
-      "published": "2026-11-23T18:43:00Z",
-      "related": [],
-      "related_count": 1,
-      "score": 8
-    },
-    {
-      "id": "d94ce06a5cf958a3f6",
-      "title": "The Guardian view on Andy Burnham’s EU intentions: undogmatic consensus building is a sensible strategy | Editorial",
-      "description": "On treacherous political terrain, the government is right to want to proceed with caution and at a pace of its own choosing During the 1980s and 90s, the French president of the European Commission, Jacques Delors, consc…",
-      "source": "The Guardian Business",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-andy-burnhams-eu-intentions-undogmatic-consensus-building-is-the-sensible-strategy",
-      "category": "Markets",
-      "published": "2026-11-23T18:28:47Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "ff7b16a97965209577",
-      "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
-      "description": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned Andrew Mountbatten-Windsor was paid a £750,000 “bribe” in the hope of helping a Turkish woman with her passpor…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
-      "category": "World",
-      "published": "2026-11-23T18:20:03Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "62259dd37ec7750851",
-      "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
-      "description": "French woman says she will pursue legal action against publisher and author over use of photos taken by convicted husband Gisèle Pelicot has said she is “deeply shocked” that nude photographs of her had been used without…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
-      "category": "World",
-      "published": "2026-11-23T18:12:48Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "c60fea46aac6a43a4e",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T18:04:20Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "d0a1b7696be96418e0",
-      "title": "Pip assessments need 'fundamental overhaul', report to say",
-      "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-      "category": "Markets",
-      "published": "2026-11-23T17:59:55Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "d7ba7bc0c353800dc0",
-      "title": "What tactics will Burnham use to sell his EU plans? – podcast",
-      "description": "Andy Burnham has set out his plans to win parliamentary backing for a new EU deal. But the various options for how Britain could rejoin the EU, or ‘Breturn’, will not be outlined until December. Pippa Crerar has been spe…",
-      "source": "The Guardian Business",
-      "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
-      "category": "Markets",
-      "published": "2026-11-23T17:42:13Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "7bda4dd5384539f745",
-      "title": "Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley",
-      "description": "Jensen Huang’s return as CEO comes despite fact board hasn’t completed investigation into reports of affair with alleged Chinese spy Jensen Huang reinstated as Nvidia CEO What was it that Nvidia’s board was saying about…",
-      "source": "The Guardian Business",
-      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
-      "category": "Technology",
-      "published": "2026-11-23T17:37:10Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "d25e08e5e243306b8e",
-      "title": "What failure of COP31 reveals about a divided world",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T17:24:25Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "ae70ceb22e99ace9e0",
-      "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
-      "description": "Countries at the Cop31 climate summit failed to reach a keystone agreement for the first time in 17 years. The talks, co-chaired by Turkey and Australia, were intended to produce a pact that would have injected urgency i…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
-      "category": "World",
-      "published": "2026-11-23T17:19:55Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "fe13dfbc11f1f98e3d",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "description": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T17:14:50Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "f3988a5b8ed93970f3",
-      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-      "description": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-      "category": "Markets",
-      "published": "2026-11-23T17:11:58Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "5cc9812370e9a6d75c",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T17:07:25Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "afa432646068b4f76d",
-      "title": "How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
-      "description": "As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grindi…",
-      "source": "The Guardian Business",
-      "url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
-      "category": "Markets",
-      "published": "2026-11-23T16:58:17Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "f127cc5a81f11c75a6",
-      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-      "description": "Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with th…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-      "category": "World",
-      "published": "2026-11-23T16:53:13Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "5a1ed965b550bca811",
-      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-      "description": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "category": "Technology",
-      "published": "2026-11-23T16:45:31Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "f382c2ef353bd03ab6",
-      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-      "description": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to U…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "category": "World",
-      "published": "2026-11-23T16:42:56Z",
-      "related": [],
-      "related_count": 1,
-      "score": 14
-    },
-    {
-      "id": "a9ba26e6a0a11fa45a",
-      "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-      "description": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, wee…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
-      "category": "World",
-      "published": "2026-11-23T16:42:09Z",
-      "related": [],
-      "related_count": 1,
-      "score": 10
-    },
-    {
-      "id": "834216efe23d4b6302",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "description": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "category": "Technology",
-      "published": "2026-11-23T16:12:35Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "bf91bd2cc073e9c3fd",
-      "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
-      "description": "Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead Russia’s war dead: the hidden toll of the Ukraine conflict In late October 2024, Alexei Bolgov, a…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
-      "category": "World",
-      "published": "2026-11-23T16:00:51Z",
-      "related": [],
-      "related_count": 1,
-      "score": 10
-    },
-    {
-      "id": "1400d5a216a15fd2d8",
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "description": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "category": "Markets",
-      "published": "2026-11-23T15:49:52Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "417913a497c7805d87",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T15:41:23Z",
-      "related": [],
-      "related_count": 1,
-      "score": 10
-    },
-    {
-      "id": "9a30e2e0021d1bdf17",
-      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "description": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-      "category": "Markets",
-      "published": "2026-11-23T15:30:27Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "b99b20d16e889b366e",
-      "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-      "description": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T14:55:14Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "ba18cd9523ca227470",
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "description": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T14:54:03Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "1f3b32244f510f3f0c",
-      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
-      "description": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There ha…",
-      "source": "The Guardian Business",
-      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-      "category": "Markets",
-      "published": "2026-11-23T14:51:44Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "8897ce9fb6b828dfb5",
-      "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
-      "description": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Next has warned that hackers have gained access to data relating to the clothing and homewares retailer…",
-      "source": "The Guardian Business",
-      "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
-      "category": "World",
-      "published": "2026-11-23T14:50:31Z",
-      "related": [],
-      "related_count": 1,
-      "score": 10
-    },
-    {
-      "id": "24c38fa6bd812c9a0b",
-      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-      "description": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "category": "Technology",
-      "published": "2026-11-23T14:40:11Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "75716b60401e3ab345",
-      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
-      "description": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T14:26:33Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "41fc212f88c4a49de4",
-      "title": "‘It’s an embarrassment’: how LA’s desperately needed airport tram went off the rails",
-      "description": "The SkyLink people mover is less than 2.5 miles long but it’s $1bn over budget and has been delayed by four years What purportedly modern, world-class city has an airport where millions of visitors step off their planes…",
-      "source": "The Guardian Business",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/lax-skylink-people-mover-los-angeles",
-      "category": "Markets",
-      "published": "2026-11-23T14:00:49Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "d8cf09951aac1dac18",
-      "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
-      "description": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flight Get our breaking news email , free app or daily news podcast Australians could collectively cut climate pollution by…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
-      "category": "World",
-      "published": "2026-11-23T13:58:01Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "fe83a1117f7e1ffbbb",
-      "title": "Domestic violence perpetrators are using smart car features to abuse, researchers warn",
-      "description": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuse Get our breaking news email , free app or daily news podcast Earlier this year a man in A…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
-      "category": "World",
-      "published": "2026-11-23T13:57:45Z",
-      "related": [],
-      "related_count": 1,
-      "score": 10
-    },
-    {
-      "id": "dce651c2de01606f08",
-      "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
-      "description": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glass…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
-      "category": "World",
-      "published": "2026-11-23T13:55:40Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "bb5adc5ba25b1e0b02",
-      "title": "Welfare cuts: What's been happening with Pip and universal credit?",
-      "description": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
-      "category": "Markets",
-      "published": "2026-11-23T13:52:40Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "cd76c7c66ad8aa9a96",
-      "title": "India pledges $1.6bn to Nepal in reset of ties",
-      "description": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T13:39:30Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "4992bef2903c73cc57",
-      "title": "Flights cancelled in Belgium due to cost-of-living strike",
-      "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-      "category": "Markets",
-      "published": "2026-11-23T13:34:02Z",
-      "related": [],
-      "related_count": 1,
-      "score": 7
-    },
-    {
-      "id": "01876de0245b9f3a90",
-      "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
-      "description": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
-      "source": "CNBC Technology",
-      "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
-      "category": "Technology",
-      "published": "2026-11-23T13:16:38Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "b07db1a7f025edd5ca",
-      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T13:09:52Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "662c04d7cf8e8c1f2b",
-      "title": "Twenty Gaza students due to leave for Ireland after winning visa battle",
-      "description": "Group’s evacuation follows campaign to overturn decision to deny visas to more than 60 students from territory Twenty students from Gaza are to travel to Ireland to take up scholarships after winning a battle for visas t…",
-      "source": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
-      "category": "World",
-      "published": "2026-11-23T13:03:14Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "9d725317d192fc4a14",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T13:02:05Z",
-      "related": [],
-      "related_count": 1,
-      "score": 6
-    },
-    {
-      "id": "a57158e8c4615f9d27",
-      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-      "description": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
-      "category": "World",
-      "published": "2026-11-23T12:43:40Z",
       "related": [],
       "related_count": 1,
       "score": 6
@@ -6048,7 +6054,7 @@
     {
       "source": "BBC World",
       "status": "ok",
-      "items": 33
+      "items": 31
     },
     {
       "source": "CNBC Markets",
@@ -6058,7 +6064,7 @@
     {
       "source": "CNBC Economy",
       "status": "ok",
-      "items": 14
+      "items": 12
     },
     {
       "source": "CNBC Technology",
@@ -6078,13 +6084,13 @@
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "items": 5
+      "items": 4
     },
     {
       "source": "SEC Press Releases",
       "status": "ok",
-      "items": 3
+      "items": 1
     }
   ],
-  "liveCount": 210
+  "liveCount": 203
 }
